@@ -1,0 +1,41 @@
+# Prepare the reference domains
+1. Get protein sequences from target BGC:
+./NCBI_download_refs.sh [-a accession] [-t GenBank title] [-d protein] [-o output_prefix]
+Example:
+./NCBI_download_refs.sh -a MH341391.1 -t "Heteroscytonema crispum UCFS10 saxitoxin biosynthetic gene cluster" -d protein -o Hcrispum_UCFS10_saxi_cluster
+Optionally:
+Download proteins and feature table from NCBI browser, protein database. The feature table has more details.
+
+2. Get reference BGC InterPro domains:
+a. for GenBank feature table downloaded using NCBI_download_refs.sh:
+./get_genbank_reference_bgc_domains.sh <target_protein_file> <feature table> <evalue> <interpro executable path> <threads>
+Example:
+./get_genbank_reference_bgc_domains.sh Hcrispum_UCFS10_saxi_cluster.faa Hcrispum_UCFS10_saxi_cluster.ft 0.05 /home/marlaux/interproscan-5.76-107.0 20
+
+b. for feature table downloaded from NCBI browser, protein database:
+First convert feature table to tabular format:
+./convert_genbank_features_to_table.sh Hcrispum_UCFS10_saxi_cluster_features.txt
+This will generate Hcrispum_UCFS10_saxi_cluster_features.tab
+./get_custom_reference_bgc_domains.sh <target_protein_file> <converted feature table> <evalue> <interpro executable path> <threads>
+Example:
+./get_custom_reference_bgc_domains.sh Hcrispum_UCFS10_saxi_cluster.faa Hcrispum_UCFS10_saxi_cluster_features.tab 0.05 /home/marlaux/interproscan-5.76-107.0 20
+
+3. Inspect domains by protein:
+The second column product is only available from feature table downloaded from NCBI browser protein database.
+>head Hcrispum_UCFS10_saxi_cluster_domains_by_protein.txt
+    AYN62246.1      SxtS    G3DSA:2.60.120.620,PTHR20883,SSF51197,PF05721   -,IPR008775
+    AYN62248.1      transposase     G3DSA:3.30.420.10,PTHR46564,PF13358     IPR036397,-,IPR038717
+    AYN62250.1      SxtR    G3DSA:3.40.630.30,SSF55729      -,IPR016181
+Let's check the SxtG domains:
+>grep "SxtG" Hcrispum_UCFS10_saxi_cluster_domains_by_protein.txt
+    AYN62276.1      SxtG    PTHR10488,SSF55909,G3DSA:3.75.10.10,cd21136     IPR033195,-
+We may check the number of cyanobacteria sequences for each domain:
+>python Count_Seqs_InterPro.py IPR033195 1117
+    Total sequences for domain IPR033195 and taxon 1117: 137
+This domain represents the PANTHER PTHR10488, GLYCINE AMIDINOTRANSFERASE
+>grep "IPR033195" Hcrispum_UCFS10_saxi_cluster_filtered_domains.tab
+
+4. Download InterPro cyanobacteria sequences for IPR033195 accession:
+>python Download_Seqs_InterPro.py IPR033195 1117 SxtG_IPR033195_Cyano.fasta
+
+5. Create HMM profile for SxtG_IPR033195_Cyano.fasta

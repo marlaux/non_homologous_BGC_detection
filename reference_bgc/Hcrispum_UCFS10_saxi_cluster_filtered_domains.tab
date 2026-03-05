@@ -1,0 +1,189 @@
+protein	seq_len	score	analysis	signature_acc	signature_desc	interpro_acc	interpro_desc	product	region	note	db_xref
+AYN62282.1	429	3.1e-14	Gene3D	G3DSA:3.40.50.1110	SGNH hydrolase	IPR036514	SGNH hydrolase superfamily	SxtL	TesA	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK [Cell cycle control, cell division, chromosome partitioning, Lipid transport and metabolism]	CDD:442045
+AYN62282.1	429	6.87e-16	SUPERFAMILY	SSF52266	SGNH hydrolase	-	-	SxtL	TesA	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK [Cell cycle control, cell division, chromosome partitioning, Lipid transport and metabolism]	CDD:442045
+AYN62282.1	429	8.14526e-09	CDD	cd00229	SGNH_hydrolase	-	-	SxtL	TesA	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK [Cell cycle control, cell division, chromosome partitioning, Lipid transport and metabolism]	CDD:442045
+AYN62259.1	184	2.6e-16	PANTHER	PTHR48419	SULFOTRANSFERASE DOMAIN-CONTAINING PROTEIN	IPR053226	Pyrrolopyrazine biosynthesis cluster protein F	truncated SxtN	Sulfotransfer_5	Sulfotransferase domain	CDD:437630
+AYN62259.1	184	2.2e-05	Pfam	PF19798	Sulfotransferase domain	-	-	truncated SxtN	Sulfotransfer_5	Sulfotransferase domain	CDD:437630
+AYN62259.1	184	1.4e-06	Gene3D	G3DSA:3.40.50.300	-	IPR027417	P-loop containing nucleoside triphosphate hydrolase	truncated SxtN	Sulfotransfer_5	Sulfotransferase domain	CDD:437630
+AYN62259.1	184	1.02e-05	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	IPR027417	P-loop containing nucleoside triphosphate hydrolase	truncated SxtN	Sulfotransfer_5	Sulfotransferase domain	CDD:437630
+AYN62288.1	485	3.3e-18	Pfam	PF01554	MatE	IPR002528	Multi antimicrobial extrusion protein	SxtM3	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62288.1	485	2.4e-19	Pfam	PF01554	MatE	IPR002528	Multi antimicrobial extrusion protein	SxtM3	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62288.1	485	3.1e-50	NCBIfam	TIGR00797	MATE family efflux transporter	IPR002528	Multi antimicrobial extrusion protein	SxtM3	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62288.1	485	1.4e-71	PANTHER	PTHR43298	MULTIDRUG RESISTANCE PROTEIN NORM-RELATED	IPR050222	Multi Antimicrobial Extrusion (MATE)	SxtM3	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62288.1	485	1.03877e-122	CDD	cd13131	MATE_NorM_like	-	-	SxtM3	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62283.1	302	3e-66	Gene3D	G3DSA:3.40.50.300	-	IPR027417	P-loop containing nucleoside triphosphate hydrolase	SxtSUL	Sulfotransfer_3	Sulfotransferase family	CDD:463887
+AYN62283.1	302	2e-09	Pfam	PF00685	Sulfotransferase domain	IPR000863	Sulfotransferase domain	SxtSUL	Sulfotransfer_3	Sulfotransferase family	CDD:463887
+AYN62283.1	302	2.46e-60	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	IPR027417	P-loop containing nucleoside triphosphate hydrolase	SxtSUL	Sulfotransfer_3	Sulfotransferase family	CDD:463887
+AYN62283.1	302	1e-29	PANTHER	PTHR10605	HEPARAN SULFATE SULFOTRANSFERASE	IPR037359	Heparan sulfate sulfotransferase	SxtSUL	Sulfotransfer_3	Sulfotransferase family	CDD:463887
+AYN62279.1	612	4e-119	Pfam	PF02543	Carbamoyltransferase N-terminus	IPR003696	Carbamoyltransferase	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62279.1	612	1.59e-19	SUPERFAMILY	SSF53067	Actin-like ATPase domain	IPR043129	ATPase, nucleotide binding domain	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62279.1	612	2.50655e-129	CDD	cd24098	ASKHA_NBD_TobZ_N	-	-	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62279.1	612	2.7e-107	Gene3D	G3DSA:3.30.420.40	-	-	-	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62279.1	612	1.4e-71	Pfam	PF16861	Carbamoyltransferase C-terminus	IPR031730	Carbamoyltransferase, C-terminal	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62279.1	612	0.0	PANTHER	PTHR34847	NODULATION PROTEIN U	IPR051338	NodU/CmcH Carbamoyltransferase	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62279.1	612	8.5e-86	Gene3D	G3DSA:3.90.870.20	-	IPR038152	Carbamoyltransferase, C-terminal domain superfamily	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62268.1	120	9.9e-29	Pfam	PF19454	Family of unknown function (DUF5992)	IPR046034	Protein of unknown function DUF5992	SxtE	DUF5992	Family of unknown function (DUF5992)	CDD:437286
+AYN62267.1	1239	0.0012	Pfam	PF00550	Phosphopantetheine attachment site	IPR009081	Phosphopantetheine binding ACP domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	1.23e-10	SUPERFAMILY	SSF55729	Acyl-CoA N-acyltransferases (Nat)	IPR016181	Acyl-CoA N-acyltransferase	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	4.1e-58	PANTHER	PTHR13693	CLASS II AMINOTRANSFERASE/8-AMINO-7-OXONONANOATE SYNTHASE	IPR050087	8-amino-7-oxononanoate synthase class-II	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	1.06e-77	SUPERFAMILY	SSF53383	PLP-dependent transferases	IPR015424	Pyridoxal phosphate-dependent transferase	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	3.4e-96	Gene3D	G3DSA:3.40.640.10	-	IPR015421	Pyridoxal phosphate-dependent transferase, major domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	2.2e-66	Gene3D	G3DSA:3.40.630.30	-	-	-	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	3.4e-108	Pfam	PF23525	AprA MT2-like domain	IPR056393	AprA-like, MT2-like domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	1.5e-09	Gene3D	G3DSA:1.10.10.10	-	IPR036388	Winged helix-like DNA-binding domain superfamily	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	3.4e-96	Gene3D	G3DSA:3.90.1150.10	Aspartate Aminotransferase, domain 1	IPR015422	Pyridoxal phosphate-dependent transferase, small domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	3.36e-07	SUPERFAMILY	SSF46785	Winged helix DNA-binding domain	IPR036390	Winged helix DNA-binding domain superfamily	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	1.63e-05	SUPERFAMILY	SSF53335	S-adenosyl-L-methionine-dependent methyltransferases	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	2.9e-12	Gene3D	G3DSA:1.10.1200.10	-	IPR036736	ACP-like superfamily	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	0.0022	SMART	SM00823	Phosphopantetheine attachment site	IPR020806	Polyketide synthase-like, phosphopantetheine-binding domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	9.55e-11	SUPERFAMILY	SSF47336	ACP-like	IPR036736	ACP-like superfamily	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	1.8e-20	Pfam	PF23589	AprA winged helix domain	IPR056395	AprA, winged helix domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	3.5e-20	Pfam	PF23526	AprA N-terminal domain	IPR056394	AprA-like, N-terminal domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62267.1	1239	2e-25	Pfam	PF00155	Aminotransferase class I and II	IPR004839	Aminotransferase, class I/classII, large domain	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62264.1	234	9.7e-29	PANTHER	PTHR33498	TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS1557	IPR047951	Transposase ISL3	transposase	COG3464	Transposase [Mobilome: prophages, transposons]	CDD:442687
+AYN62264.1	234	6.1e-45	Pfam	PF01610	Transposase	IPR002560	Transposase IS204/IS1001/IS1096/IS1165, DDE domain	transposase	COG3464	Transposase [Mobilome: prophages, transposons]	CDD:442687
+AYN62274.1	188	2.8e-17	Pfam	PF01609	Transposase DDE domain	IPR002559	Transposase IS4-like domain	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62274.1	188	7.7e-45	PANTHER	PTHR30007	PHP DOMAIN PROTEIN	-	-	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62271.1	412	1.1e-17	Pfam	PF01385	Probable transposase	IPR001959	Probable transposase, IS891/IS1136/IS1341	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62271.1	412	1.9e-13	Pfam	PF12323	Helix-turn-helix domain	IPR021027	Transposase, putative, helix-turn-helix domain	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62271.1	412	3.9e-85	NCBIfam	NF040570	RNA-guided endonuclease TnpB family protein	-	-	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62271.1	412	5.6e-14	Pfam	PF07282	Cas12f1-like, TNB domain	IPR010095	Cas12f1-like, TNB domain	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62271.1	412	1.2e-07	NCBIfam	TIGR01766	IS200/IS605 family accessory protein TnpB-like domain	IPR010095	Cas12f1-like, TNB domain	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62276.1	377	4.9e-113	PANTHER	PTHR10488	GLYCINE AMIDINOTRANSFERASE, MITOCHONDRIAL	IPR033195	Glycine/inosamine-phosphate amidinotransferase	SxtG	amidinotransferase_AGAT-like	chemical substrate binding site [chemical binding]	CDD:439148
+AYN62276.1	377	2.16e-93	SUPERFAMILY	SSF55909	Pentein	-	-	SxtG	amidinotransferase_AGAT-like	chemical substrate binding site [chemical binding]	CDD:439148
+AYN62276.1	377	1.5e-116	Gene3D	G3DSA:3.75.10.10	-	-	-	SxtG	amidinotransferase_AGAT-like	chemical substrate binding site [chemical binding]	CDD:439148
+AYN62276.1	377	0.0	CDD	cd21136	amidinotransferase_AGAT-like	-	-	SxtG	amidinotransferase_AGAT-like	chemical substrate binding site [chemical binding]	CDD:439148
+AYN62249.1	121	2.4e-05	Gene3D	G3DSA:1.10.10.10	-	IPR036388	Winged helix-like DNA-binding domain superfamily	transposase	Csa3	CRISPR-associated protein Csa3, CARF domain [Defense mechanisms]	CDD:442641
+AYN62249.1	121	0.0042	Pfam	PF13518	Helix-turn-helix domain	IPR055247	Insertion element IS150 protein InsJ-like, helix-turn-helix domain	transposase	Csa3	CRISPR-associated protein Csa3, CARF domain [Defense mechanisms]	CDD:442641
+AYN62249.1	121	2.27e-21	SUPERFAMILY	SSF46689	Homeodomain-like	IPR009057	Homedomain-like superfamily	transposase	Csa3	CRISPR-associated protein Csa3, CARF domain [Defense mechanisms]	CDD:442641
+AYN62297.1	110	2.8e-32	Pfam	PF13701	Transposase DDE domain group 1	IPR025668	Transposase DDE domain	transposase	DDE_Tnp_1_4	Transposase DDE domain group 1	CDD:433414
+AYN62295.1	263	2.8e-19	Pfam	PF01609	Transposase DDE domain	IPR002559	Transposase IS4-like domain	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62295.1	263	3.4e-21	Pfam	PF13340	Putative transposase of IS4/5 family (DUF4096)	IPR025161	Insertion element IS402-like domain	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62295.1	263	3.4e-60	NCBIfam	NF033580	IS5 family transposase	-	-	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62295.1	263	4.4e-81	PANTHER	PTHR30007	PHP DOMAIN PROTEIN	-	-	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62285.1	187	4.7e-19	Pfam	PF13358	DDE superfamily endonuclease	IPR038717	Tc1-like transposase, DDE domain	transposase	transpos_IS630	IS630 family transposase	CDD:468076
+AYN62285.1	187	4.2e-06	Gene3D	G3DSA:3.30.420.10	-	IPR036397	Ribonuclease H superfamily	transposase	transpos_IS630	IS630 family transposase	CDD:468076
+AYN62298.1	124	1.7e-40	PANTHER	PTHR46637	TIS1421-TRANSPOSASE PROTEIN A	IPR052909	Transposase_6_like	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62298.1	124	1.8e-21	Pfam	PF13340	Putative transposase of IS4/5 family (DUF4096)	IPR025161	Insertion element IS402-like domain	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62298.1	124	8.2e-34	NCBIfam	NF033580	IS5 family transposase	-	-	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62254.1	252	1.7e-12	PANTHER	PTHR21624	STEROL DESATURASE-RELATED PROTEIN	IPR051689	Sterol desaturase/TMEM195-like	SxtD	ERG3	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily [Lipid transport and metabolism]	CDD:442238
+AYN62254.1	252	7.3e-18	Pfam	PF04116	Fatty acid hydroxylase	IPR006694	Fatty acid hydroxylase	SxtD	ERG3	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily [Lipid transport and metabolism]	CDD:442238
+AYN62293.1	272	4.4e-18	PANTHER	PTHR33252	THIRD ORF IN TRANSPOSON ISC1160	-	-	transposase	DUF4322	Domain of unknown function (DUF4322)	CDD:480590
+AYN62266.1	322	1.73e-25	SUPERFAMILY	SSF53927	Cytidine deaminase-like	IPR016193	Cytidine deaminase-like	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	1.1e-26	Gene3D	G3DSA:3.40.140.10	Cytidine Deaminase, domain 2	-	-	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	0.0011	Pfam	PF00383	Cytidine and deoxycytidylate deaminase zinc-binding region	IPR002125	Cytidine and deoxycytidylate deaminase domain	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	1.24814e-12	CDD	cd01283	cytidine_deaminase	-	-	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	1.8e-74	PIRSF	PIRSF006334	Cdd_plus_pseudo	-	-	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	2.5e-81	NCBIfam	NF006537	cytidine deaminase	-	-	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	5.38655e-05	CDD	cd01283	cytidine_deaminase	-	-	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	4.7e-26	SUPERFAMILY	SSF53927	Cytidine deaminase-like	IPR016193	Cytidine deaminase-like	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	1.1e-32	Gene3D	G3DSA:3.40.140.10	Cytidine Deaminase, domain 2	-	-	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	3.7e-37	PANTHER	PTHR11644	CYTIDINE DEAMINASE	IPR050202	Cytidine and Deoxycytidylate Deaminase	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62266.1	322	1.9e-30	Pfam	PF08211	Cytidine and deoxycytidylate deaminase zinc-binding region	IPR013171	Cytidine/deoxycytidylate deaminase, zinc-binding domain	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62277.1	334	9.17757e-34	CDD	cd03469	Rieske_RO_Alpha_N	-	-	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62277.1	334	1.2e-31	Gene3D	G3DSA:3.90.380.10	-	-	-	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62277.1	334	1.6e-51	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	IPR050584	Cholesterol 7-desaturase	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62277.1	334	5.3e-11	Pfam	PF19112	Vanillate O-demethylase oxygenase C-terminal domain	IPR044043	Vanillate O-demethylase oxygenase-like, C-terminal catalytic domain	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62277.1	334	2.28e-25	SUPERFAMILY	SSF55961	Bet v1-like	-	-	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62277.1	334	2.1e-36	SUPERFAMILY	SSF50022	ISP domain	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62277.1	334	5.5e-20	Pfam	PF00355	Rieske [2Fe-2S] domain	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62277.1	334	1.1e-39	Gene3D	G3DSA:2.102.10.10	-	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62251.1	258	1.5e-30	Pfam	PF08892	YqcI/YcgG family	IPR014988	Uncharacterised protein family, YqcI/YcgG	SxtQ	YqcI_YcgG	YqcI/YcgG family	CDD:470166
+AYN62251.1	258	3.9e-27	PANTHER	PTHR40045	YCGG FAMILY PROTEIN	IPR014988	Uncharacterised protein family, YqcI/YcgG	SxtQ	YqcI_YcgG	YqcI/YcgG family	CDD:470166
+AYN62294.1	149	2.58e-47	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	IPR027417	P-loop containing nucleoside triphosphate hydrolase	glycine/betaine ABC transporter	ProV	ABC-type proline/glycine betaine transport system, ATPase component [Amino acid transport and metabolism]	CDD:443334
+AYN62294.1	149	8.9e-40	Gene3D	G3DSA:3.40.50.300	-	IPR027417	P-loop containing nucleoside triphosphate hydrolase	glycine/betaine ABC transporter	ProV	ABC-type proline/glycine betaine transport system, ATPase component [Amino acid transport and metabolism]	CDD:443334
+AYN62294.1	149	1.7e-13	Pfam	PF00005	ABC transporter	IPR003439	ABC transporter-like, ATP-binding domain	glycine/betaine ABC transporter	ProV	ABC-type proline/glycine betaine transport system, ATPase component [Amino acid transport and metabolism]	CDD:443334
+AYN62294.1	149	6.9e-68	PANTHER	PTHR43869	GLYCINE BETAINE/PROLINE BETAINE TRANSPORT SYSTEM ATP-BINDING PROTEIN PROV	IPR051921	ABC transporter osmolyte uptake ATP-binding protein	glycine/betaine ABC transporter	ProV	ABC-type proline/glycine betaine transport system, ATPase component [Amino acid transport and metabolism]	CDD:443334
+AYN62250.1	293	1.2e-29	Gene3D	G3DSA:3.40.630.30	-	-	-	SxtR	PhnO	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2) [Transcription, General function prediction only]	CDD:440222
+AYN62250.1	293	5.05e-06	SUPERFAMILY	SSF55729	Acyl-CoA N-acyltransferases (Nat)	IPR016181	Acyl-CoA N-acyltransferase	SxtR	PhnO	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2) [Transcription, General function prediction only]	CDD:440222
+AYN62299.1	249	0.0	CDD	cd08934	CAD_SDR_c	-	-	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	7.4e-51	PIRSF	PIRSF000126	11-beta-HSD1	-	-	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	1.6e-69	PANTHER	PTHR43115	DEHYDROGENASE/REDUCTASE SDR FAMILY MEMBER 11	-	-	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	2.6e-12	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	IPR002347	Short-chain dehydrogenase/reductase SDR	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	0.0065	SMART	SM00822	This enzymatic domain is part of bacterial polyketide synthases and catalyses the first step in the reductive modification of the beta-carbonyl centres in the growing polyketide chain. It uses NADPH to reduce the keto group to a hydroxy group.	IPR057326	Ketoreductase domain	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	9.2e-77	Gene3D	G3DSA:3.40.50.720	-	-	-	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	1.3e-28	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	IPR002347	Short-chain dehydrogenase/reductase SDR	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	4e-79	FunFam	G3DSA:3.40.50.720:FF:000047	NADP-dependent L-serine/L-allo-threonine dehydrogenase	-	-	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	1.1e-56	Pfam	PF00106	short chain dehydrogenase	IPR002347	Short-chain dehydrogenase/reductase SDR	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62299.1	249	5.34e-75	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	IPR036291	NAD(P)-binding domain superfamily	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62270.1	165	2.1e-39	Gene3D	G3DSA:3.40.50.300	-	IPR027417	P-loop containing nucleoside triphosphate hydrolase	SxtO	P-loop containing Nucleoside Triphosphate Hydrolases	Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphate-binding motif, also referred to as the Walker A motif (GxxxxGK[S/T], where x is any residue), and the Walker B motif (hhhh[D/E], where h is a ...	CDD:476819
+AYN62270.1	165	1.42e-19	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	IPR027417	P-loop containing nucleoside triphosphate hydrolase	SxtO	P-loop containing Nucleoside Triphosphate Hydrolases	Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphate-binding motif, also referred to as the Walker A motif (GxxxxGK[S/T], where x is any residue), and the Walker B motif (hhhh[D/E], where h is a ...	CDD:476819
+AYN62270.1	165	4.81107e-49	CDD	cd02027	APSK	-	-	SxtO	P-loop containing Nucleoside Triphosphate Hydrolases	Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphate-binding motif, also referred to as the Walker A motif (GxxxxGK[S/T], where x is any residue), and the Walker B motif (hhhh[D/E], where h is a ...	CDD:476819
+AYN62270.1	165	2.7e-33	Pfam	PF01583	Adenylylsulphate kinase	IPR059117	APS kinase domain	SxtO	P-loop containing Nucleoside Triphosphate Hydrolases	Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphate-binding motif, also referred to as the Walker A motif (GxxxxGK[S/T], where x is any residue), and the Walker B motif (hhhh[D/E], where h is a ...	CDD:476819
+AYN62270.1	165	2.7e-33	PANTHER	PTHR42700	SULFATE ADENYLYLTRANSFERASE	IPR050512	Sulfate Adenylyltransferase/APS Kinase	SxtO	P-loop containing Nucleoside Triphosphate Hydrolases	Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphate-binding motif, also referred to as the Walker A motif (GxxxxGK[S/T], where x is any residue), and the Walker B motif (hhhh[D/E], where h is a ...	CDD:476819
+AYN62253.1	124	4.7e-34	NCBIfam	NF033580	IS5 family transposase	-	-	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62253.1	124	1e-41	PANTHER	PTHR46637	TIS1421-TRANSPOSASE PROTEIN A	IPR052909	Transposase_6_like	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62253.1	124	6.5e-22	Pfam	PF13340	Putative transposase of IS4/5 family (DUF4096)	IPR025161	Insertion element IS402-like domain	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62252.1	483	2.18e-65	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	IPR028994	Integrin alpha, N-terminal	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	5.3e-96	PANTHER	PTHR46580	SENSOR KINASE-RELATED	-	-	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	2.7e-10	Pfam	PF13517	FG-GAP-like repeat	IPR013517	FG-GAP repeat	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	2e-10	Pfam	PF13517	FG-GAP-like repeat	IPR013517	FG-GAP repeat	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	3.4e-08	Pfam	PF13517	FG-GAP-like repeat	IPR013517	FG-GAP repeat	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	1.3e-13	Gene3D	G3DSA:2.30.30.100	-	-	-	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	4.4e-18	Gene3D	G3DSA:2.30.30.100	-	-	-	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	7.1e-20	Gene3D	G3DSA:2.30.30.100	-	-	-	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	1e-17	Gene3D	G3DSA:2.30.30.100	-	-	-	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	1.3e-15	Gene3D	G3DSA:2.30.30.100	-	-	-	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62252.1	483	5.3e-17	Gene3D	G3DSA:2.30.30.100	-	-	-	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62280.1	134	2.2e-12	Pfam	PF19588	Saxitoxin biosynthesis operon protein SxtJ	IPR045781	Saxitoxin biosynthesis operon protein SxtJ	SxtJ	SxtJ	Saxitoxin biosynthesis operon protein SxtJ	CDD:437420
+AYN62287.1	184	6.32e-21	SUPERFAMILY	SSF55961	Bet v1-like	-	-	truncated SxtDIOX	VanA_C	Vanillate O-demethylase oxygenase C-terminal domain	CDD:436978
+AYN62287.1	184	2.5e-32	Gene3D	G3DSA:3.90.380.10	-	-	-	truncated SxtDIOX	VanA_C	Vanillate O-demethylase oxygenase C-terminal domain	CDD:436978
+AYN62287.1	184	8.7e-11	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	IPR050584	Cholesterol 7-desaturase	truncated SxtDIOX	VanA_C	Vanillate O-demethylase oxygenase C-terminal domain	CDD:436978
+AYN62287.1	184	7.1e-16	Pfam	PF19112	Vanillate O-demethylase oxygenase C-terminal domain	IPR044043	Vanillate O-demethylase oxygenase-like, C-terminal catalytic domain	truncated SxtDIOX	VanA_C	Vanillate O-demethylase oxygenase C-terminal domain	CDD:436978
+AYN62300.1	353	3.36743e-34	CDD	cd03469	Rieske_RO_Alpha_N	-	-	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62300.1	353	3.93e-36	SUPERFAMILY	SSF50022	ISP domain	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62300.1	353	1.87e-28	SUPERFAMILY	SSF55961	Bet v1-like	-	-	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62300.1	353	1.8e-34	Gene3D	G3DSA:3.90.380.10	-	-	-	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62300.1	353	2.7e-52	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	IPR050584	Cholesterol 7-desaturase	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62300.1	353	3.9e-20	Pfam	PF00355	Rieske [2Fe-2S] domain	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62300.1	353	2.9e-14	Pfam	PF19112	Vanillate O-demethylase oxygenase C-terminal domain	IPR044043	Vanillate O-demethylase oxygenase-like, C-terminal catalytic domain	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62300.1	353	5.4e-39	Gene3D	G3DSA:2.102.10.10	-	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62290.1	205	1.5e-13	Pfam	PF13358	DDE superfamily endonuclease	IPR038717	Tc1-like transposase, DDE domain	transposase	DDE_3	DDE superfamily endonuclease	CDD:433142
+AYN62290.1	205	1.3e-27	NCBIfam	NF033545	IS630 family transposase	IPR047655	Transposase IS630-like	transposase	DDE_3	DDE superfamily endonuclease	CDD:433142
+AYN62290.1	205	3.8e-16	Gene3D	G3DSA:3.30.420.10	-	IPR036397	Ribonuclease H superfamily	transposase	DDE_3	DDE superfamily endonuclease	CDD:433142
+AYN62290.1	205	4.93e-05	SUPERFAMILY	SSF53098	Ribonuclease H-like	IPR012337	Ribonuclease H-like superfamily	transposase	DDE_3	DDE superfamily endonuclease	CDD:433142
+AYN62284.1	158	2.1e-20	Pfam	PF00355	Rieske [2Fe-2S] domain	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	truncated SxtDIOX	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62284.1	158	1.38131e-34	CDD	cd03469	Rieske_RO_Alpha_N	-	-	truncated SxtDIOX	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62284.1	158	1.31e-36	SUPERFAMILY	SSF50022	ISP domain	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	truncated SxtDIOX	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62284.1	158	6.7e-40	Gene3D	G3DSA:2.102.10.10	-	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	truncated SxtDIOX	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62284.1	158	1.3e-35	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	IPR050584	Cholesterol 7-desaturase	truncated SxtDIOX	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62260.1	559	4.4e-34	PIRSF	PIRSF000171	SDHA_APRA_LASPO	-	-	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	4.4e-40	Gene3D	G3DSA:3.50.50.60	-	IPR036188	FAD/NAD(P)-binding domain superfamily	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	2.1e-05	Gene3D	G3DSA:3.50.50.60	-	IPR036188	FAD/NAD(P)-binding domain superfamily	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	4.1e-07	Gene3D	G3DSA:1.20.58.100	-	-	-	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	3.2e-05	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	-	-	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	4.8e-25	PANTHER	PTHR11632	SUCCINATE DEHYDROGENASE 2 FLAVOPROTEIN SUBUNIT	IPR030664	FAD-dependent oxidoreductase SdhA/FrdA/AprA	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	3.2e-11	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	-	-	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	2.3e-16	Pfam	PF00890	FAD binding domain	IPR003953	FAD-dependent oxidoreductase 2, FAD-binding domain	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	3.75e-44	SUPERFAMILY	SSF51905	FAD/NAD(P)-binding domain	IPR036188	FAD/NAD(P)-binding domain superfamily	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62260.1	559	2.09e-16	SUPERFAMILY	SSF46977	Succinate dehydrogenase/fumarate reductase flavoprotein C-terminal domain	IPR037099	Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal domain superfamily	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62258.1	152	2.6e-11	Pfam	PF07282	Cas12f1-like, TNB domain	IPR010095	Cas12f1-like, TNB domain	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62261.1	108	5.1e-12	PANTHER	PTHR43687	ADENYLYLSULFATE REDUCTASE, BETA SUBUNIT	IPR050572	Iron-Sulfur Ferredoxin	SxtW	PsaC	Photosystem I reaction center iron-sulfur center subunit VII, PsaC [Energy production and conversion]	CDD:444413
+AYN62261.1	108	9e-13	Gene3D	G3DSA:3.30.70.20	-	-	-	SxtW	PsaC	Photosystem I reaction center iron-sulfur center subunit VII, PsaC [Energy production and conversion]	CDD:444413
+AYN62261.1	108	5.12e-16	SUPERFAMILY	SSF54862	4Fe-4S ferredoxins	-	-	SxtW	PsaC	Photosystem I reaction center iron-sulfur center subunit VII, PsaC [Energy production and conversion]	CDD:444413
+AYN62261.1	108	0.00099	Pfam	PF12838	4Fe-4S dicluster domain	IPR017896	4Fe-4S ferredoxin-type, iron-sulphur binding domain	SxtW	PsaC	Photosystem I reaction center iron-sulfur center subunit VII, PsaC [Energy production and conversion]	CDD:444413
+AYN62248.1	156	6.1e-28	Gene3D	G3DSA:3.30.420.10	-	IPR036397	Ribonuclease H superfamily	transposase	COG3335	Transposase [Mobilome: prophages, transposons]	CDD:442564
+AYN62248.1	156	5.6e-23	PANTHER	PTHR46564	TRANSPOSASE	-	-	transposase	COG3335	Transposase [Mobilome: prophages, transposons]	CDD:442564
+AYN62248.1	156	1.6e-25	Pfam	PF13358	DDE superfamily endonuclease	IPR038717	Tc1-like transposase, DDE domain	transposase	COG3335	Transposase [Mobilome: prophages, transposons]	CDD:442564
+AYN62286.1	165	1.08e-12	SUPERFAMILY	SSF46689	Homeodomain-like	IPR009057	Homedomain-like superfamily	transposase	transpos_IS630	IS630 family transposase	CDD:468076
+AYN62286.1	165	7.2e-07	Pfam	PF13565	Homeodomain-like domain	-	-	transposase	transpos_IS630	IS630 family transposase	CDD:468076
+AYN62256.1	135	4.1e-40	Gene3D	G3DSA:3.30.70.1290	-	IPR036515	Transposase IS200-like superfamily	transposase	Y1_Tnp	Transposase IS200 like	CDD:469954
+AYN62256.1	135	1.3e-33	PANTHER	PTHR33360	TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS200	-	-	transposase	Y1_Tnp	Transposase IS200 like	CDD:469954
+AYN62256.1	135	3.9e-36	Pfam	PF01797	Transposase IS200 like	IPR002686	Transposase IS200-like	transposase	Y1_Tnp	Transposase IS200 like	CDD:469954
+AYN62256.1	135	3.27e-44	SUPERFAMILY	SSF143422	Transposase IS200-like	IPR036515	Transposase IS200-like superfamily	transposase	Y1_Tnp	Transposase IS200 like	CDD:469954
+AYN62256.1	135	1.6e-40	SMART	SM01321	Y1_Tnp_2	IPR002686	Transposase IS200-like	transposase	Y1_Tnp	Transposase IS200 like	CDD:469954
+AYN62256.1	135	1.9e-36	NCBIfam	NF033573	IS200/IS605 family transposase	-	-	transposase	Y1_Tnp	Transposase IS200 like	CDD:469954
+AYN62289.1	104	7.1e-05	Pfam	PF05598	Transposase domain (DUF772)	IPR008490	Transposase InsH, N-terminal	transposase	transpos_ISNCY_1	ISNCY family transposase	CDD:468102
+AYN62291.1	255	1.14e-30	SUPERFAMILY	SSF53335	S-adenosyl-L-methionine-dependent methyltransferases	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	SxtX	AdoMet_MTases	S-adenosylmethionine-dependent methyltransferases (SAM or AdoMet-MTase), class I; AdoMet-MTases are enzymes that use S-adenosyl-L-methionine (SAM or AdoMet) as a substrate for methyltransfer, creating the product S-adenosyl-L-homocysteine (AdoHcy). ...	CDD:473071
+AYN62291.1	255	2.7e-34	Gene3D	G3DSA:3.40.50.150	Vaccinia Virus protein VP39	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	SxtX	AdoMet_MTases	S-adenosylmethionine-dependent methyltransferases (SAM or AdoMet-MTase), class I; AdoMet-MTases are enzymes that use S-adenosyl-L-methionine (SAM or AdoMet) as a substrate for methyltransfer, creating the product S-adenosyl-L-homocysteine (AdoHcy). ...	CDD:473071
+AYN62291.1	255	9.8e-11	Pfam	PF04989	Rhamnosyl O-methyltransferase/CmcI	IPR007072	Rhamnosyl O-methyltransferase	SxtX	AdoMet_MTases	S-adenosylmethionine-dependent methyltransferases (SAM or AdoMet-MTase), class I; AdoMet-MTases are enzymes that use S-adenosyl-L-methionine (SAM or AdoMet) as a substrate for methyltransfer, creating the product S-adenosyl-L-homocysteine (AdoHcy). ...	CDD:473071
+AYN62246.1	266	1.7e-33	Gene3D	G3DSA:2.60.120.620	q2cbj1_9rhob like domain	-	-	SxtS	PhyH	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family [Secondary metabolites biosynthesis, transport and catabolism]	CDD:444095
+AYN62246.1	266	7.3e-12	PANTHER	PTHR20883	PHYTANOYL-COA DIOXYGENASE DOMAIN CONTAINING 1	-	-	SxtS	PhyH	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family [Secondary metabolites biosynthesis, transport and catabolism]	CDD:444095
+AYN62246.1	266	3.66e-30	SUPERFAMILY	SSF51197	Clavaminate synthase-like	-	-	SxtS	PhyH	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family [Secondary metabolites biosynthesis, transport and catabolism]	CDD:444095
+AYN62246.1	266	6.5e-08	Pfam	PF05721	Phytanoyl-CoA dioxygenase (PhyH)	IPR008775	Phytanoyl-CoA dioxygenase-like	SxtS	PhyH	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family [Secondary metabolites biosynthesis, transport and catabolism]	CDD:444095
+AYN62281.1	54	7.5e-18	Pfam	PF19451	Family of unknown function (DUF5989)	IPR046031	Protein of unknown function DUF5989	SxtK	DUF5989	Family of unknown function (DUF5989)	CDD:466090
+AYN62272.1	480	1.3e-74	PANTHER	PTHR43298	MULTIDRUG RESISTANCE PROTEIN NORM-RELATED	IPR050222	Multi Antimicrobial Extrusion (MATE)	SxtM1	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62272.1	480	7.8e-53	NCBIfam	TIGR00797	MATE family efflux transporter	IPR002528	Multi antimicrobial extrusion protein	SxtM1	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62272.1	480	1.13535e-119	CDD	cd13131	MATE_NorM_like	-	-	SxtM1	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62272.1	480	1.3e-13	Pfam	PF01554	MatE	IPR002528	Multi antimicrobial extrusion protein	SxtM1	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62272.1	480	3.5e-20	Pfam	PF01554	MatE	IPR002528	Multi antimicrobial extrusion protein	SxtM1	MATE_NorM_like	cation binding site [ion binding]	CDD:240536

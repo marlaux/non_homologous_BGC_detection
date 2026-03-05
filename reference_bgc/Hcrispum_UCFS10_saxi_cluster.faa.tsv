@@ -1,0 +1,225 @@
+AYN62282.1	5df63764c228e76f24f7aa358e74a583	429	Gene3D	G3DSA:3.40.50.1110	SGNH hydrolase	91	407	3.1E-14	T	19-10-2025	IPR036514	SGNH hydrolase superfamily	-	-
+AYN62282.1	5df63764c228e76f24f7aa358e74a583	429	SUPERFAMILY	SSF52266	SGNH hydrolase	90	405	6.87E-16	T	19-10-2025	-	-	-	-
+AYN62282.1	5df63764c228e76f24f7aa358e74a583	429	CDD	cd00229	SGNH_hydrolase	92	185	8.14526E-9	T	19-10-2025	-	-	-	-
+AYN62259.1	db7ba55cb1b2ac73ad29b97ce1deadbd	184	PANTHER	PTHR48419	SULFOTRANSFERASE DOMAIN-CONTAINING PROTEIN	21	173	2.6E-16	T	19-10-2025	IPR053226	Pyrrolopyrazine biosynthesis cluster protein F	-	-
+AYN62259.1	db7ba55cb1b2ac73ad29b97ce1deadbd	184	Pfam	PF19798	Sulfotransferase domain	8	128	2.2E-5	T	19-10-2025	-	-	-	-
+AYN62259.1	db7ba55cb1b2ac73ad29b97ce1deadbd	184	Gene3D	G3DSA:3.40.50.300	-	17	157	1.4E-6	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62259.1	db7ba55cb1b2ac73ad29b97ce1deadbd	184	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	21	117	1.02E-5	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62288.1	94890bdbc677e6278d7b9590f899a28b	485	Pfam	PF01554	MatE	33	192	3.3E-18	T	19-10-2025	IPR002528	Multi antimicrobial extrusion protein	-	-
+AYN62288.1	94890bdbc677e6278d7b9590f899a28b	485	Pfam	PF01554	MatE	259	423	2.4E-19	T	19-10-2025	IPR002528	Multi antimicrobial extrusion protein	-	-
+AYN62288.1	94890bdbc677e6278d7b9590f899a28b	485	NCBIfam	TIGR00797	MATE family efflux transporter	33	437	3.1E-50	T	19-10-2025	IPR002528	Multi antimicrobial extrusion protein	-	-
+AYN62288.1	94890bdbc677e6278d7b9590f899a28b	485	PANTHER	PTHR43298	MULTIDRUG RESISTANCE PROTEIN NORM-RELATED	22	458	1.4E-71	T	19-10-2025	IPR050222	Multi Antimicrobial Extrusion (MATE)	-	-
+AYN62288.1	94890bdbc677e6278d7b9590f899a28b	485	CDD	cd13131	MATE_NorM_like	23	457	1.03877E-122	T	19-10-2025	-	-	-	-
+AYN62283.1	eff549fbba1e362a6e05cfeb2eee3140	302	Gene3D	G3DSA:3.40.50.300	-	1	302	3.0E-66	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62283.1	eff549fbba1e362a6e05cfeb2eee3140	302	Pfam	PF00685	Sulfotransferase domain	4	204	2.0E-9	T	19-10-2025	IPR000863	Sulfotransferase domain	-	-
+AYN62283.1	eff549fbba1e362a6e05cfeb2eee3140	302	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	1	300	2.46E-60	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62283.1	eff549fbba1e362a6e05cfeb2eee3140	302	PANTHER	PTHR10605	HEPARAN SULFATE SULFOTRANSFERASE	4	293	1.0E-29	T	19-10-2025	IPR037359	Heparan sulfate sulfotransferase	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	Pfam	PF02543	Carbamoyltransferase N-terminus	2	347	4.0E-119	T	19-10-2025	IPR003696	Carbamoyltransferase	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	SUPERFAMILY	SSF53067	Actin-like ATPase domain	1	352	1.59E-19	T	19-10-2025	IPR043129	ATPase, nucleotide binding domain	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	CDD	cd24098	ASKHA_NBD_TobZ_N	3	353	2.50655E-129	T	19-10-2025	-	-	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	Gene3D	G3DSA:3.30.420.40	-	10	346	2.7E-107	T	19-10-2025	-	-	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	Pfam	PF16861	Carbamoyltransferase C-terminus	404	593	1.4E-71	T	19-10-2025	IPR031730	Carbamoyltransferase, C-terminal	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	PANTHER	PTHR34847	NODULATION PROTEIN U	1	601	0.0	T	19-10-2025	IPR051338	NodU/CmcH Carbamoyltransferase	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	Gene3D	G3DSA:3.90.870.20	-	367	592	8.5E-86	T	19-10-2025	IPR038152	Carbamoyltransferase, C-terminal domain superfamily	-	-
+AYN62279.1	960dc9f7423abb688257e449234ae59b	612	Gene3D	G3DSA:3.30.420.40	-	131	340	2.7E-107	T	19-10-2025	-	-	-	-
+AYN62269.1	85b3ca1407cd8dbe1031dec3af11518f	68	Coils	Coil	Coil	36	63	-	T	19-10-2025	-	-	-	-
+AYN62268.1	bb5aeed592c87d0fe9fe6daacb10415b	120	Pfam	PF19454	Family of unknown function (DUF5992)	17	120	9.9E-29	T	19-10-2025	IPR046034	Protein of unknown function DUF5992	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Pfam	PF00550	Phosphopantetheine attachment site	746	810	0.0012	T	19-10-2025	IPR009081	Phosphopantetheine binding ACP domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	SUPERFAMILY	SSF55729	Acyl-CoA N-acyltransferases (Nat)	510	641	1.23E-10	T	19-10-2025	IPR016181	Acyl-CoA N-acyltransferase	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	21	6.0	T	19-10-2025	-	-	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	PANTHER	PTHR13693	CLASS II AMINOTRANSFERASE/8-AMINO-7-OXONONANOATE SYNTHASE	831	1225	4.1E-58	T	19-10-2025	IPR050087	8-amino-7-oxononanoate synthase class-II	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	SUPERFAMILY	SSF53383	PLP-dependent transferases	842	1228	1.06E-77	T	19-10-2025	IPR015424	Pyridoxal phosphate-dependent transferase	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Gene3D	G3DSA:3.40.640.10	-	877	1129	3.4E-96	T	19-10-2025	IPR015421	Pyridoxal phosphate-dependent transferase, major domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Gene3D	G3DSA:3.40.630.30	-	498	712	2.2E-66	T	19-10-2025	-	-	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Pfam	PF23525	AprA MT2-like domain	235	503	3.4E-108	T	19-10-2025	IPR056393	AprA-like, MT2-like domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Gene3D	G3DSA:1.10.10.10	-	1	82	1.5E-9	T	19-10-2025	IPR036388	Winged helix-like DNA-binding domain superfamily	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Gene3D	G3DSA:3.90.1150.10	Aspartate Aminotransferase, domain 1	859	1220	3.4E-96	T	19-10-2025	IPR015422	Pyridoxal phosphate-dependent transferase, small domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	ProSiteProfiles	PS51186	Gcn5-related N-acetyltransferase (GNAT) domain profile.	510	700	12.855404	T	19-10-2025	IPR000182	GNAT domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	SUPERFAMILY	SSF46785	"Winged helix" DNA-binding domain	5	79	3.36E-7	T	19-10-2025	IPR036390	Winged helix DNA-binding domain superfamily	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	SUPERFAMILY	SSF53335	S-adenosyl-L-methionine-dependent methyltransferases	248	479	1.63E-5	T	19-10-2025	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Gene3D	G3DSA:1.10.1200.10	-	721	818	2.9E-12	T	19-10-2025	IPR036736	ACP-like superfamily	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	SMART	SM00823	Phosphopantetheine attachment site	743	815	0.0022	T	19-10-2025	IPR020806	Polyketide synthase-like, phosphopantetheine-binding domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	SUPERFAMILY	SSF47336	ACP-like	740	821	9.55E-11	T	19-10-2025	IPR036736	ACP-like superfamily	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	ProSiteProfiles	PS50075	Carrier protein (CP) domain profile.	740	815	11.222504	T	19-10-2025	IPR009081	Phosphopantetheine binding ACP domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Pfam	PF23589	AprA winged helix domain	132	222	1.8E-20	T	19-10-2025	IPR056395	AprA, winged helix domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Pfam	PF23526	AprA N-terminal domain	1	67	3.5E-20	T	19-10-2025	IPR056394	AprA-like, N-terminal domain	-	-
+AYN62267.1	fda4ac2597ee9c11a3dff251d8cdc426	1239	Pfam	PF00155	Aminotransferase class I and II	867	1223	2.0E-25	T	19-10-2025	IPR004839	Aminotransferase, class I/classII, large domain	-	-
+AYN62264.1	5ffc2085dbc36d49fc5cfa7237f3693b	234	PANTHER	PTHR33498	TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS1557	23	226	9.7E-29	T	19-10-2025	IPR047951	Transposase ISL3	-	-
+AYN62264.1	5ffc2085dbc36d49fc5cfa7237f3693b	234	Pfam	PF01610	Transposase	20	221	6.1E-45	T	19-10-2025	IPR002560	Transposase IS204/IS1001/IS1096/IS1165, DDE domain	-	-
+AYN62274.1	48520474a5b4b0b298ec1a82e0a19755	188	Pfam	PF01609	Transposase DDE domain	45	180	2.8E-17	T	19-10-2025	IPR002559	Transposase IS4-like domain	-	-
+AYN62274.1	48520474a5b4b0b298ec1a82e0a19755	188	PANTHER	PTHR30007	PHP DOMAIN PROTEIN	17	187	7.7E-45	T	19-10-2025	-	-	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	Pfam	PF01385	Probable transposase	166	277	1.1E-17	T	19-10-2025	IPR001959	Probable transposase, IS891/IS1136/IS1341	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	MobiDBLite	mobidb-lite	consensus disorder prediction	200	230	-	T	19-10-2025	-	-	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	Pfam	PF12323	Helix-turn-helix domain	1	46	1.9E-13	T	19-10-2025	IPR021027	Transposase, putative, helix-turn-helix domain	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	NCBIfam	NF040570	RNA-guided endonuclease TnpB family protein	5	363	3.9E-85	T	19-10-2025	-	-	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	Pfam	PF07282	Cas12f1-like, TNB domain	289	361	5.6E-14	T	19-10-2025	IPR010095	Cas12f1-like, TNB domain	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	NCBIfam	TIGR01766	IS200/IS605 family accessory protein TnpB-like domain	244	312	1.2E-7	T	19-10-2025	IPR010095	Cas12f1-like, TNB domain	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	Coils	Coil	Coil	203	223	-	T	19-10-2025	-	-	-	-
+AYN62271.1	3f1310d61c6969737b861411e51c8d4b	412	MobiDBLite	mobidb-lite	consensus disorder prediction	200	210	-	T	19-10-2025	-	-	-	-
+AYN62276.1	5131b32f13d16325dcdc8dce1037b6d1	377	PANTHER	PTHR10488	GLYCINE AMIDINOTRANSFERASE, MITOCHONDRIAL	15	377	4.9E-113	T	19-10-2025	IPR033195	Glycine/inosamine-phosphate amidinotransferase	-	-
+AYN62276.1	5131b32f13d16325dcdc8dce1037b6d1	377	SUPERFAMILY	SSF55909	Pentein	20	377	2.16E-93	T	19-10-2025	-	-	-	-
+AYN62276.1	5131b32f13d16325dcdc8dce1037b6d1	377	Gene3D	G3DSA:3.75.10.10	-	9	377	1.5E-116	T	19-10-2025	-	-	-	-
+AYN62276.1	5131b32f13d16325dcdc8dce1037b6d1	377	CDD	cd21136	amidinotransferase_AGAT-like	21	370	0.0	T	19-10-2025	-	-	-	-
+AYN62249.1	e3ab98dbba5437a175203ae17de5a875	121	Gene3D	G3DSA:1.10.10.10	-	4	52	2.4E-5	T	19-10-2025	IPR036388	Winged helix-like DNA-binding domain superfamily	-	-
+AYN62249.1	e3ab98dbba5437a175203ae17de5a875	121	Pfam	PF13518	Helix-turn-helix domain	10	57	0.0042	T	19-10-2025	IPR055247	Insertion element IS150 protein InsJ-like, helix-turn-helix domain	-	-
+AYN62249.1	e3ab98dbba5437a175203ae17de5a875	121	SUPERFAMILY	SSF46689	Homeodomain-like	1	109	2.27E-21	T	19-10-2025	IPR009057	Homedomain-like superfamily	-	-
+AYN62297.1	00a5ab2cae23466c820cd06861bc381c	110	Pfam	PF13701	Transposase DDE domain group 1	1	103	2.8E-32	T	19-10-2025	IPR025668	Transposase DDE domain	-	-
+AYN62295.1	4838ecc2769feadba20be50391463c2e	263	Pfam	PF01609	Transposase DDE domain	99	255	2.8E-19	T	19-10-2025	IPR002559	Transposase IS4-like domain	-	-
+AYN62295.1	4838ecc2769feadba20be50391463c2e	263	Pfam	PF13340	Putative transposase of IS4/5 family (DUF4096)	9	82	3.4E-21	T	19-10-2025	IPR025161	Insertion element IS402-like domain	-	-
+AYN62295.1	4838ecc2769feadba20be50391463c2e	263	NCBIfam	NF033580	IS5 family transposase	5	258	3.4E-60	T	19-10-2025	-	-	-	-
+AYN62295.1	4838ecc2769feadba20be50391463c2e	263	PANTHER	PTHR30007	PHP DOMAIN PROTEIN	2	262	4.4E-81	T	19-10-2025	-	-	-	-
+AYN62285.1	8cd682f7556fd1457a15585e3eb8325b	187	Pfam	PF13358	DDE superfamily endonuclease	2	158	4.7E-19	T	19-10-2025	IPR038717	Tc1-like transposase, DDE domain	-	-
+AYN62285.1	8cd682f7556fd1457a15585e3eb8325b	187	Gene3D	G3DSA:3.30.420.10	-	11	187	4.2E-6	T	19-10-2025	IPR036397	Ribonuclease H superfamily	-	-
+AYN62298.1	bd523ce076c90df7b7bfd5e447a321ef	124	PANTHER	PTHR46637	TIS1421-TRANSPOSASE PROTEIN A	4	112	1.7E-40	T	19-10-2025	IPR052909	Transposase_6_like	-	-
+AYN62298.1	bd523ce076c90df7b7bfd5e447a321ef	124	Pfam	PF13340	Putative transposase of IS4/5 family (DUF4096)	7	80	1.8E-21	T	19-10-2025	IPR025161	Insertion element IS402-like domain	-	-
+AYN62298.1	bd523ce076c90df7b7bfd5e447a321ef	124	NCBIfam	NF033580	IS5 family transposase	4	110	8.2E-34	T	19-10-2025	-	-	-	-
+AYN62254.1	333b6a867b884a502f7688a6454919e9	252	PANTHER	PTHR21624	STEROL DESATURASE-RELATED PROTEIN	85	225	1.7E-12	T	19-10-2025	IPR051689	Sterol desaturase/TMEM195-like	-	-
+AYN62254.1	333b6a867b884a502f7688a6454919e9	252	Pfam	PF04116	Fatty acid hydroxylase	92	223	7.3E-18	T	19-10-2025	IPR006694	Fatty acid hydroxylase	-	-
+AYN62293.1	f8b8f43140c6dc2154031423778d8a1e	272	PANTHER	PTHR33252	THIRD ORF IN TRANSPOSON ISC1160	48	271	4.4E-18	T	19-10-2025	-	-	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	SUPERFAMILY	SSF53927	Cytidine deaminase-like	29	146	1.73E-25	T	19-10-2025	IPR016193	Cytidine deaminase-like	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	Gene3D	G3DSA:3.40.140.10	Cytidine Deaminase, domain 2	197	307	1.1E-26	T	19-10-2025	-	-	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	ProSiteProfiles	PS51747	Cytidine and deoxycytidylate deaminases domain profile.	46	183	16.758358	T	19-10-2025	IPR002125	Cytidine and deoxycytidylate deaminase domain	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	ProSiteProfiles	PS51747	Cytidine and deoxycytidylate deaminases domain profile.	202	322	18.809145	T	19-10-2025	IPR002125	Cytidine and deoxycytidylate deaminase domain	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	Pfam	PF00383	Cytidine and deoxycytidylate deaminase zinc-binding region	58	146	0.0011	T	19-10-2025	IPR002125	Cytidine and deoxycytidylate deaminase domain	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	CDD	cd01283	cytidine_deaminase	52	166	1.24814E-12	T	19-10-2025	-	-	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	PIRSF	PIRSF006334	Cdd_plus_pseudo	20	309	1.8E-74	T	19-10-2025	-	-	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	NCBIfam	NF006537	cytidine deaminase	4	303	2.5E-81	T	19-10-2025	-	-	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	CDD	cd01283	cytidine_deaminase	210	266	5.38655E-5	T	19-10-2025	-	-	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	SUPERFAMILY	SSF53927	Cytidine deaminase-like	170	301	4.7E-26	T	19-10-2025	IPR016193	Cytidine deaminase-like	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	Gene3D	G3DSA:3.40.140.10	Cytidine Deaminase, domain 2	28	195	1.1E-32	T	19-10-2025	-	-	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	PANTHER	PTHR11644	CYTIDINE DEAMINASE	37	263	3.7E-37	T	19-10-2025	IPR050202	Cytidine and Deoxycytidylate Deaminase	-	-
+AYN62266.1	19444b5b9661a169b0f2fca15e04b463	322	Pfam	PF08211	Cytidine and deoxycytidylate deaminase zinc-binding region	172	293	1.9E-30	T	19-10-2025	IPR013171	Cytidine/deoxycytidylate deaminase, zinc-binding domain	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	CDD	cd03469	Rieske_RO_Alpha_N	12	121	9.17757E-34	T	19-10-2025	-	-	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	Gene3D	G3DSA:3.90.380.10	-	136	329	1.2E-31	T	19-10-2025	-	-	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	10	326	1.6E-51	T	19-10-2025	IPR050584	Cholesterol 7-desaturase	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	ProSitePatterns	PS00570	Bacterial ring hydroxylating dioxygenases alpha-subunit signature.	55	77	-	T	19-10-2025	IPR015881	Aromatic-ring-hydroxylating dioxygenase ARHD, Rieske 2Fe-2S-binding site	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	ProSiteProfiles	PS51296	Rieske [2Fe-2S] iron-sulfur domain profile.	13	118	31.00668	T	19-10-2025	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	Pfam	PF19112	Vanillate O-demethylase oxygenase C-terminal domain	149	327	5.3E-11	T	19-10-2025	IPR044043	Vanillate O-demethylase oxygenase-like, C-terminal catalytic domain	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	SUPERFAMILY	SSF55961	Bet v1-like	123	329	2.28E-25	T	19-10-2025	-	-	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	SUPERFAMILY	SSF50022	ISP domain	5	128	2.1E-36	T	19-10-2025	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	Pfam	PF00355	Rieske [2Fe-2S] domain	11	95	5.5E-20	T	19-10-2025	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	-	-
+AYN62277.1	15c5f87adf24efc2ab18351c4beece75	334	Gene3D	G3DSA:2.102.10.10	-	6	135	1.1E-39	T	19-10-2025	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	-	-
+AYN62251.1	66cf9073773619b62d683895fd26c037	258	Pfam	PF08892	YqcI/YcgG family	40	222	1.5E-30	T	19-10-2025	IPR014988	Uncharacterised protein family, YqcI/YcgG	-	-
+AYN62251.1	66cf9073773619b62d683895fd26c037	258	PANTHER	PTHR40045	YCGG FAMILY PROTEIN	26	222	3.9E-27	T	19-10-2025	IPR014988	Uncharacterised protein family, YqcI/YcgG	-	-
+AYN62294.1	6144d65df0fc88aa2ea78fe86ae6dc74	149	ProSiteProfiles	PS50893	ATP-binding cassette, ABC transporter-type domain profile.	1	149	8.770353	T	19-10-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+AYN62294.1	6144d65df0fc88aa2ea78fe86ae6dc74	149	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	7	142	2.58E-47	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62294.1	6144d65df0fc88aa2ea78fe86ae6dc74	149	Gene3D	G3DSA:3.40.50.300	-	1	146	8.9E-40	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62294.1	6144d65df0fc88aa2ea78fe86ae6dc74	149	Pfam	PF00005	ABC transporter	5	93	1.7E-13	T	19-10-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+AYN62294.1	6144d65df0fc88aa2ea78fe86ae6dc74	149	ProSitePatterns	PS00211	ABC transporters family signature.	66	80	-	T	19-10-2025	IPR017871	ABC transporter-like, conserved site	-	-
+AYN62294.1	6144d65df0fc88aa2ea78fe86ae6dc74	149	PANTHER	PTHR43869	GLYCINE BETAINE/PROLINE BETAINE TRANSPORT SYSTEM ATP-BINDING PROTEIN PROV	1	137	6.9E-68	T	19-10-2025	IPR051921	ABC transporter osmolyte uptake ATP-binding protein	-	-
+AYN62250.1	d6a39934552d4a69d53dda75ea15c949	293	Gene3D	G3DSA:3.40.630.30	-	37	227	1.2E-29	T	19-10-2025	-	-	-	-
+AYN62250.1	d6a39934552d4a69d53dda75ea15c949	293	SUPERFAMILY	SSF55729	Acyl-CoA N-acyltransferases (Nat)	50	183	5.05E-6	T	19-10-2025	IPR016181	Acyl-CoA N-acyltransferase	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	CDD	cd08934	CAD_SDR_c	5	247	0.0	T	19-10-2025	-	-	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PIRSF	PIRSF000126	11-beta-HSD1	7	230	7.4E-51	T	19-10-2025	-	-	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	ProSitePatterns	PS00061	Short-chain dehydrogenases/reductases family signature.	143	171	-	T	19-10-2025	IPR020904	Short-chain dehydrogenase/reductase, conserved site	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PANTHER	PTHR43115	DEHYDROGENASE/REDUCTASE SDR FAMILY MEMBER 11	5	247	1.6E-69	T	19-10-2025	-	-	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	83	94	2.6E-12	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	136	144	2.6E-12	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	156	175	2.6E-12	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	SMART	SM00822	This enzymatic domain is part of bacterial polyketide synthases and catalyses the first step in the reductive modification of the beta-carbonyl centres in the growing polyketide chain. It uses NADPH to reduce the keto group to a hydroxy group.	8	192	0.0065	T	19-10-2025	IPR057326	Ketoreductase domain	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	Gene3D	G3DSA:3.40.50.720	-	2	247	9.2E-77	T	19-10-2025	-	-	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	9	26	1.3E-28	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	83	94	1.3E-28	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	130	146	1.3E-28	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	156	175	1.3E-28	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	177	194	1.3E-28	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	FunFam	G3DSA:3.40.50.720:FF:000047	NADP-dependent L-serine/L-allo-threonine dehydrogenase	2	247	4.0E-79	T	19-10-2025	-	-	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	Pfam	PF00106	short chain dehydrogenase	8	193	1.1E-56	T	19-10-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+AYN62299.1	f6d18ae2cfcec46a7711d65f7ebbd9ff	249	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	3	242	5.34E-75	T	19-10-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+AYN62270.1	53841089aca9f3d61b22b4d94e628be3	165	Gene3D	G3DSA:3.40.50.300	-	1	144	2.1E-39	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62270.1	53841089aca9f3d61b22b4d94e628be3	165	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	3	109	1.42E-19	T	19-10-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+AYN62270.1	53841089aca9f3d61b22b4d94e628be3	165	CDD	cd02027	APSK	7	129	4.81107E-49	T	19-10-2025	-	-	-	-
+AYN62270.1	53841089aca9f3d61b22b4d94e628be3	165	Pfam	PF01583	Adenylylsulphate kinase	4	102	2.7E-33	T	19-10-2025	IPR059117	APS kinase domain	-	-
+AYN62270.1	53841089aca9f3d61b22b4d94e628be3	165	PANTHER	PTHR42700	SULFATE ADENYLYLTRANSFERASE	2	101	2.7E-33	T	19-10-2025	IPR050512	Sulfate Adenylyltransferase/APS Kinase	-	-
+AYN62253.1	2979a12b5d8655811798f076480bdce9	124	NCBIfam	NF033580	IS5 family transposase	4	110	4.7E-34	T	19-10-2025	-	-	-	-
+AYN62253.1	2979a12b5d8655811798f076480bdce9	124	PANTHER	PTHR46637	TIS1421-TRANSPOSASE PROTEIN A	3	112	1.0E-41	T	19-10-2025	IPR052909	Transposase_6_like	-	-
+AYN62253.1	2979a12b5d8655811798f076480bdce9	124	Pfam	PF13340	Putative transposase of IS4/5 family (DUF4096)	7	79	6.5E-22	T	19-10-2025	IPR025161	Insertion element IS402-like domain	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	SUPERFAMILY	SSF69318	Integrin alpha N-terminal domain	135	473	2.18E-65	T	19-10-2025	IPR028994	Integrin alpha, N-terminal	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	PANTHER	PTHR46580	SENSOR KINASE-RELATED	131	352	5.3E-96	T	19-10-2025	-	-	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Pfam	PF13517	FG-GAP-like repeat	400	460	2.7E-10	T	19-10-2025	IPR013517	FG-GAP repeat	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Pfam	PF13517	FG-GAP-like repeat	204	263	2.0E-10	T	19-10-2025	IPR013517	FG-GAP repeat	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Pfam	PF13517	FG-GAP-like repeat	302	362	3.4E-8	T	19-10-2025	IPR013517	FG-GAP repeat	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Gene3D	G3DSA:2.30.30.100	-	260	308	1.3E-13	T	19-10-2025	-	-	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Gene3D	G3DSA:2.30.30.100	-	407	455	4.4E-18	T	19-10-2025	-	-	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Gene3D	G3DSA:2.30.30.100	-	209	259	7.1E-20	T	19-10-2025	-	-	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Gene3D	G3DSA:2.30.30.100	-	309	358	1.0E-17	T	19-10-2025	-	-	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Gene3D	G3DSA:2.30.30.100	-	359	406	1.3E-15	T	19-10-2025	-	-	-	-
+AYN62252.1	8f80a998cd16a6b1e260f81775755067	483	Gene3D	G3DSA:2.30.30.100	-	160	208	5.3E-17	T	19-10-2025	-	-	-	-
+AYN62280.1	72d10f0ca66b619c4f748cd041812ae6	134	Pfam	PF19588	Saxitoxin biosynthesis operon protein SxtJ	10	107	2.2E-12	T	19-10-2025	IPR045781	Saxitoxin biosynthesis operon protein SxtJ	-	-
+AYN62287.1	eef7f3483d0d81fe4e338119bfc14ff5	184	SUPERFAMILY	SSF55961	Bet v1-like	1	179	6.32E-21	T	19-10-2025	-	-	-	-
+AYN62287.1	eef7f3483d0d81fe4e338119bfc14ff5	184	Gene3D	G3DSA:3.90.380.10	-	1	179	2.5E-32	T	19-10-2025	-	-	-	-
+AYN62287.1	eef7f3483d0d81fe4e338119bfc14ff5	184	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	1	176	8.7E-11	T	19-10-2025	IPR050584	Cholesterol 7-desaturase	-	-
+AYN62287.1	eef7f3483d0d81fe4e338119bfc14ff5	184	Pfam	PF19112	Vanillate O-demethylase oxygenase C-terminal domain	2	177	7.1E-16	T	19-10-2025	IPR044043	Vanillate O-demethylase oxygenase-like, C-terminal catalytic domain	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	CDD	cd03469	Rieske_RO_Alpha_N	12	121	3.36743E-34	T	19-10-2025	-	-	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	SUPERFAMILY	SSF50022	ISP domain	5	128	3.93E-36	T	19-10-2025	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	SUPERFAMILY	SSF55961	Bet v1-like	123	334	1.87E-28	T	19-10-2025	-	-	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	Gene3D	G3DSA:3.90.380.10	-	135	334	1.8E-34	T	19-10-2025	-	-	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	ProSitePatterns	PS00570	Bacterial ring hydroxylating dioxygenases alpha-subunit signature.	55	77	-	T	19-10-2025	IPR015881	Aromatic-ring-hydroxylating dioxygenase ARHD, Rieske 2Fe-2S-binding site	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	10	331	2.7E-52	T	19-10-2025	IPR050584	Cholesterol 7-desaturase	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	Pfam	PF00355	Rieske [2Fe-2S] domain	11	95	3.9E-20	T	19-10-2025	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	Pfam	PF19112	Vanillate O-demethylase oxygenase C-terminal domain	149	332	2.9E-14	T	19-10-2025	IPR044043	Vanillate O-demethylase oxygenase-like, C-terminal catalytic domain	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	ProSiteProfiles	PS51296	Rieske [2Fe-2S] iron-sulfur domain profile.	13	118	30.580935	T	19-10-2025	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	-	-
+AYN62300.1	9a4dd3c1d5498265350e8c66deff07bf	353	Gene3D	G3DSA:2.102.10.10	-	6	134	5.4E-39	T	19-10-2025	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	-	-
+AYN62290.1	54a7d8a28bb2c883e864a7f654a679d8	205	Pfam	PF13358	DDE superfamily endonuclease	26	172	1.5E-13	T	19-10-2025	IPR038717	Tc1-like transposase, DDE domain	-	-
+AYN62290.1	54a7d8a28bb2c883e864a7f654a679d8	205	NCBIfam	NF033545	IS630 family transposase	20	187	1.3E-27	T	19-10-2025	IPR047655	Transposase IS630-like	-	-
+AYN62290.1	54a7d8a28bb2c883e864a7f654a679d8	205	Gene3D	G3DSA:3.30.420.10	-	3	193	3.8E-16	T	19-10-2025	IPR036397	Ribonuclease H superfamily	-	-
+AYN62290.1	54a7d8a28bb2c883e864a7f654a679d8	205	SUPERFAMILY	SSF53098	Ribonuclease H-like	55	187	4.93E-5	T	19-10-2025	IPR012337	Ribonuclease H-like superfamily	-	-
+AYN62284.1	95011f68205d9498711dd0320466b01d	158	Pfam	PF00355	Rieske [2Fe-2S] domain	11	95	2.1E-20	T	19-10-2025	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	-	-
+AYN62284.1	95011f68205d9498711dd0320466b01d	158	CDD	cd03469	Rieske_RO_Alpha_N	12	121	1.38131E-34	T	19-10-2025	-	-	-	-
+AYN62284.1	95011f68205d9498711dd0320466b01d	158	ProSitePatterns	PS00570	Bacterial ring hydroxylating dioxygenases alpha-subunit signature.	55	77	-	T	19-10-2025	IPR015881	Aromatic-ring-hydroxylating dioxygenase ARHD, Rieske 2Fe-2S-binding site	-	-
+AYN62284.1	95011f68205d9498711dd0320466b01d	158	SUPERFAMILY	SSF50022	ISP domain	5	128	1.31E-36	T	19-10-2025	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	-	-
+AYN62284.1	95011f68205d9498711dd0320466b01d	158	Gene3D	G3DSA:2.102.10.10	-	5	135	6.7E-40	T	19-10-2025	IPR036922	Rieske [2Fe-2S] iron-sulphur domain superfamily	-	-
+AYN62284.1	95011f68205d9498711dd0320466b01d	158	PANTHER	PTHR21266	IRON-SULFUR DOMAIN CONTAINING PROTEIN	10	133	1.3E-35	T	19-10-2025	IPR050584	Cholesterol 7-desaturase	-	-
+AYN62284.1	95011f68205d9498711dd0320466b01d	158	ProSiteProfiles	PS51296	Rieske [2Fe-2S] iron-sulfur domain profile.	13	118	30.599052	T	19-10-2025	IPR017941	Rieske [2Fe-2S] iron-sulphur domain	-	-
+AYN62255.1	1085974c641d9e12001d98a521c8d293	81	MobiDBLite	mobidb-lite	consensus disorder prediction	60	70	-	T	19-10-2025	-	-	-	-
+AYN62255.1	1085974c641d9e12001d98a521c8d293	81	MobiDBLite	mobidb-lite	consensus disorder prediction	54	81	-	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	PIRSF	PIRSF000171	SDHA_APRA_LASPO	22	519	4.4E-34	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	Gene3D	G3DSA:3.50.50.60	-	18	254	4.4E-40	T	19-10-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	Pfam	PF02910	Fumarate reductase flavoprotein C-term	452	520	0.086	T	19-10-2025	IPR015939	Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	Gene3D	G3DSA:3.50.50.60	-	310	383	2.1E-5	T	19-10-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	Gene3D	G3DSA:1.20.58.100	-	427	514	4.1E-7	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	26	48	3.2E-5	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	352	359	3.2E-5	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	PANTHER	PTHR11632	SUCCINATE DEHYDROGENASE 2 FLAVOPROTEIN SUBUNIT	24	231	4.8E-25	T	19-10-2025	IPR030664	FAD-dependent oxidoreductase SdhA/FrdA/AprA	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	27	46	3.2E-11	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	216	234	3.2E-11	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	337	359	3.2E-11	T	19-10-2025	-	-	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	Pfam	PF00890	FAD binding domain	27	228	2.3E-16	T	19-10-2025	IPR003953	FAD-dependent oxidoreductase 2, FAD-binding domain	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	SUPERFAMILY	SSF51905	FAD/NAD(P)-binding domain	14	396	3.75E-44	T	19-10-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+AYN62260.1	88a3526863c69dbe60daa7b17f9b44a3	559	SUPERFAMILY	SSF46977	Succinate dehydrogenase/fumarate reductase flavoprotein C-terminal domain	426	537	2.09E-16	T	19-10-2025	IPR037099	Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal domain superfamily	-	-
+AYN62258.1	4770febfdc4affbaa7a6e7a28e123cf3	152	MobiDBLite	mobidb-lite	consensus disorder prediction	115	152	-	T	19-10-2025	-	-	-	-
+AYN62258.1	4770febfdc4affbaa7a6e7a28e123cf3	152	MobiDBLite	mobidb-lite	consensus disorder prediction	115	126	-	T	19-10-2025	-	-	-	-
+AYN62258.1	4770febfdc4affbaa7a6e7a28e123cf3	152	Pfam	PF07282	Cas12f1-like, TNB domain	26	90	2.6E-11	T	19-10-2025	IPR010095	Cas12f1-like, TNB domain	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	PANTHER	PTHR43687	ADENYLYLSULFATE REDUCTASE, BETA SUBUNIT	5	70	5.1E-12	T	19-10-2025	IPR050572	Iron-Sulfur Ferredoxin	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	ProSitePatterns	PS00198	4Fe-4S ferredoxin-type iron-sulfur binding region signature.	10	21	-	T	19-10-2025	IPR017900	4Fe-4S ferredoxin, iron-sulphur binding, conserved site	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	Gene3D	G3DSA:3.30.70.20	-	2	70	9.0E-13	T	19-10-2025	-	-	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	ProSiteProfiles	PS51379	4Fe-4S ferredoxin-type iron-sulfur binding domain profile.	1	30	9.457331	T	19-10-2025	IPR017896	4Fe-4S ferredoxin-type, iron-sulphur binding domain	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	ProSiteProfiles	PS51379	4Fe-4S ferredoxin-type iron-sulfur binding domain profile.	31	61	8.482838	T	19-10-2025	IPR017896	4Fe-4S ferredoxin-type, iron-sulphur binding domain	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	SUPERFAMILY	SSF54862	4Fe-4S ferredoxins	4	92	5.12E-16	T	19-10-2025	-	-	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	ProSitePatterns	PS00198	4Fe-4S ferredoxin-type iron-sulfur binding region signature.	41	52	-	T	19-10-2025	IPR017900	4Fe-4S ferredoxin, iron-sulphur binding, conserved site	-	-
+AYN62261.1	db1661c78af7c6071da4dd2353a59e89	108	Pfam	PF12838	4Fe-4S dicluster domain	10	55	9.9E-4	T	19-10-2025	IPR017896	4Fe-4S ferredoxin-type, iron-sulphur binding domain	-	-
+AYN62248.1	f6e6b9eb13775fcb59186b44206c4694	156	Gene3D	G3DSA:3.30.420.10	-	3	153	6.1E-28	T	19-10-2025	IPR036397	Ribonuclease H superfamily	-	-
+AYN62248.1	f6e6b9eb13775fcb59186b44206c4694	156	PANTHER	PTHR46564	TRANSPOSASE	2	133	5.6E-23	T	19-10-2025	-	-	-	-
+AYN62248.1	f6e6b9eb13775fcb59186b44206c4694	156	Pfam	PF13358	DDE superfamily endonuclease	5	129	1.6E-25	T	19-10-2025	IPR038717	Tc1-like transposase, DDE domain	-	-
+AYN62286.1	3310eeaf7e5d6288b069ce64349899c0	165	SUPERFAMILY	SSF46689	Homeodomain-like	26	149	1.08E-12	T	19-10-2025	IPR009057	Homedomain-like superfamily	-	-
+AYN62286.1	3310eeaf7e5d6288b069ce64349899c0	165	Pfam	PF13565	Homeodomain-like domain	62	147	7.2E-7	T	19-10-2025	-	-	-	-
+AYN62256.1	e02a4bbf6e2ca9414ba7a8d032b82541	135	Gene3D	G3DSA:3.30.70.1290	-	2	132	4.1E-40	T	19-10-2025	IPR036515	Transposase IS200-like superfamily	-	-
+AYN62256.1	e02a4bbf6e2ca9414ba7a8d032b82541	135	PANTHER	PTHR33360	TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS200	4	131	1.3E-33	T	19-10-2025	-	-	-	-
+AYN62256.1	e02a4bbf6e2ca9414ba7a8d032b82541	135	Pfam	PF01797	Transposase IS200 like	9	130	3.9E-36	T	19-10-2025	IPR002686	Transposase IS200-like	-	-
+AYN62256.1	e02a4bbf6e2ca9414ba7a8d032b82541	135	SUPERFAMILY	SSF143422	Transposase IS200-like	4	131	3.27E-44	T	19-10-2025	IPR036515	Transposase IS200-like superfamily	-	-
+AYN62256.1	e02a4bbf6e2ca9414ba7a8d032b82541	135	SMART	SM01321	Y1_Tnp_2	10	130	1.6E-40	T	19-10-2025	IPR002686	Transposase IS200-like	-	-
+AYN62256.1	e02a4bbf6e2ca9414ba7a8d032b82541	135	NCBIfam	NF033573	IS200/IS605 family transposase	4	128	1.9E-36	T	19-10-2025	-	-	-	-
+AYN62289.1	a7e4f4fcc788768b6cee966eaff82555	104	Pfam	PF05598	Transposase domain (DUF772)	15	73	7.1E-5	T	19-10-2025	IPR008490	Transposase InsH, N-terminal	-	-
+AYN62291.1	2feaee654e55182c7d90d850f9d04f4e	255	SUPERFAMILY	SSF53335	S-adenosyl-L-methionine-dependent methyltransferases	35	198	1.14E-30	T	19-10-2025	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	-	-
+AYN62291.1	2feaee654e55182c7d90d850f9d04f4e	255	Gene3D	G3DSA:3.40.50.150	Vaccinia Virus protein VP39	58	220	2.7E-34	T	19-10-2025	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	-	-
+AYN62291.1	2feaee654e55182c7d90d850f9d04f4e	255	Pfam	PF04989	Rhamnosyl O-methyltransferase/CmcI	50	235	9.8E-11	T	19-10-2025	IPR007072	Rhamnosyl O-methyltransferase	-	-
+AYN62246.1	7e48e6e4f7a0333bb1a27f4aca1aad84	266	Gene3D	G3DSA:2.60.120.620	q2cbj1_9rhob like domain	20	259	1.7E-33	T	19-10-2025	-	-	-	-
+AYN62246.1	7e48e6e4f7a0333bb1a27f4aca1aad84	266	PANTHER	PTHR20883	PHYTANOYL-COA DIOXYGENASE DOMAIN CONTAINING 1	27	247	7.3E-12	T	19-10-2025	-	-	-	-
+AYN62246.1	7e48e6e4f7a0333bb1a27f4aca1aad84	266	SUPERFAMILY	SSF51197	Clavaminate synthase-like	26	254	3.66E-30	T	19-10-2025	-	-	-	-
+AYN62246.1	7e48e6e4f7a0333bb1a27f4aca1aad84	266	Pfam	PF05721	Phytanoyl-CoA dioxygenase (PhyH)	37	239	6.5E-8	T	19-10-2025	IPR008775	Phytanoyl-CoA dioxygenase-like	-	-
+AYN62281.1	6c95db5bb6f3dbd5b1603e889b02977d	54	Pfam	PF19451	Family of unknown function (DUF5989)	6	54	7.5E-18	T	19-10-2025	IPR046031	Protein of unknown function DUF5989	-	-
+AYN62272.1	d97603ed245e940ca41747868e057528	480	PANTHER	PTHR43298	MULTIDRUG RESISTANCE PROTEIN NORM-RELATED	14	449	1.3E-74	T	19-10-2025	IPR050222	Multi Antimicrobial Extrusion (MATE)	-	-
+AYN62272.1	d97603ed245e940ca41747868e057528	480	NCBIfam	TIGR00797	MATE family efflux transporter	25	429	7.8E-53	T	19-10-2025	IPR002528	Multi antimicrobial extrusion protein	-	-
+AYN62272.1	d97603ed245e940ca41747868e057528	480	CDD	cd13131	MATE_NorM_like	15	450	1.13535E-119	T	19-10-2025	-	-	-	-
+AYN62272.1	d97603ed245e940ca41747868e057528	480	Pfam	PF01554	MatE	25	184	1.3E-13	T	19-10-2025	IPR002528	Multi antimicrobial extrusion protein	-	-
+AYN62272.1	d97603ed245e940ca41747868e057528	480	Pfam	PF01554	MatE	251	415	3.5E-20	T	19-10-2025	IPR002528	Multi antimicrobial extrusion protein	-	-

@@ -1,0 +1,56 @@
+protein	product	region	note	db_xref
+AYN62280.1	SxtJ	SxtJ	Saxitoxin biosynthesis operon protein SxtJ	CDD:437420
+AYN62300.1	SxtT	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62299.1	SxtU	CAD_SDR_c	homodimer interface [polypeptide binding]	CDD:187639
+AYN62298.1	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62297.1	transposase	DDE_Tnp_1_4	Transposase DDE domain group 1	CDD:433414
+AYN62296.1	transposase	transpos_ISKra4	ISKra4 family transposase	CDD:468091
+AYN62295.1	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62294.1	glycine/betaine ABC transporter	ProV	ABC-type proline/glycine betaine transport system, ATPase component [Amino acid transport and metabolism]	CDD:443334
+AYN62293.1	transposase	DUF4322	Domain of unknown function (DUF4322)	CDD:480590
+AYN62292.1	hypothetical protein	None	None	None
+AYN62291.1	SxtX	AdoMet_MTases	S-adenosylmethionine-dependent methyltransferases (SAM or AdoMet-MTase), class I; AdoMet-MTases are enzymes that use S-adenosyl-L-methionine (SAM or AdoMet) as a substrate for methyltransfer, creating the product S-adenosyl-L-homocysteine (AdoHcy). ...	CDD:473071
+AYN62290.1	transposase	DDE_3	DDE superfamily endonuclease	CDD:433142
+AYN62289.1	transposase	transpos_ISNCY_1	ISNCY family transposase	CDD:468102
+AYN62288.1	SxtM3	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62287.1	truncated SxtDIOX	VanA_C	Vanillate O-demethylase oxygenase C-terminal domain	CDD:436978
+AYN62286.1	transposase	transpos_IS630	IS630 family transposase	CDD:468076
+AYN62285.1	transposase	transpos_IS630	IS630 family transposase	CDD:468076
+AYN62284.1	truncated SxtDIOX	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62283.1	SxtSUL	Sulfotransfer_3	Sulfotransferase family	CDD:463887
+AYN62282.1	SxtL	TesA	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK [Cell cycle control, cell division, chromosome partitioning, Lipid transport and metabolism]	CDD:442045
+AYN62281.1	SxtK	DUF5989	Family of unknown function (DUF5989)	CDD:466090
+AYN62279.1	SxtI	COG2192	Predicted carbamoyl transferase, NodU family [General function prediction only]	CDD:441795
+AYN62278.1	SxtM2	None	None	None
+AYN62277.1	SxtH	PobA	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]	CDD:444459
+AYN62276.1	SxtG	amidinotransferase_AGAT-like	chemical substrate binding site [chemical binding]	CDD:439148
+AYN62275.1	hypothetical protein	None	None	None
+AYN62274.1	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62273.1	hypothetical protein	None	None	None
+AYN62272.1	SxtM1	MATE_NorM_like	cation binding site [ion binding]	CDD:240536
+AYN62271.1	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62270.1	SxtO	P-loop containing Nucleoside Triphosphate Hydrolases	Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphate-binding motif, also referred to as the Walker A motif (GxxxxGK[S/T], where x is any residue), and the Walker B motif (hhhh[D/E], where h is a ...	CDD:476819
+AYN62269.1	transposase	None	None	None
+AYN62268.1	SxtE	DUF5992	Family of unknown function (DUF5992)	CDD:437286
+AYN62267.1	SxtA	BioF	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]	CDD:439926
+AYN62266.1	SxtB	PRK09027	cytidine deaminase; Provisional	CDD:181614
+AYN62265.1	SxtC	None	None	None
+AYN62264.1	transposase	COG3464	Transposase [Mobilome: prophages, transposons]	CDD:442687
+AYN62263.1	hypothetical protein	None	None	None
+AYN62262.1	hypothetical protein	None	None	None
+AYN62261.1	SxtW	PsaC	Photosystem I reaction center iron-sulfur center subunit VII, PsaC [Energy production and conversion]	CDD:444413
+AYN62260.1	SxtV	SdhA	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]	CDD:440673
+AYN62259.1	truncated SxtN	Sulfotransfer_5	Sulfotransferase domain	CDD:437630
+AYN62258.1	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62257.1	transposase	InsQ	Transposase [Mobilome: prophages, transposons]	CDD:440439
+AYN62256.1	transposase	Y1_Tnp	Transposase IS200 like	CDD:469954
+AYN62255.1	truncated SxtN	None	None	None
+AYN62254.1	SxtD	ERG3	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily [Lipid transport and metabolism]	CDD:442238
+AYN62253.1	transposase	transpos_IS5_3	IS5 family transposase	CDD:468097
+AYN62252.1	SxtP	FG-GAP_3	FG-GAP-like repeat	CDD:433275
+AYN62251.1	SxtQ	YqcI_YcgG	YqcI/YcgG family	CDD:470166
+AYN62250.1	SxtR	PhnO	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2) [Transcription, General function prediction only]	CDD:440222
+AYN62249.1	transposase	Csa3	CRISPR-associated protein Csa3, CARF domain [Defense mechanisms]	CDD:442641
+AYN62248.1	transposase	COG3335	Transposase [Mobilome: prophages, transposons]	CDD:442564
+AYN62247.1	Orf24	None	None	None
+AYN62246.1	SxtS	PhyH	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family [Secondary metabolites biosynthesis, transport and catabolism]	CDD:444095

@@ -1,0 +1,747 @@
+>Feature gb|AYN62280.1|
+1	134	Protein
+			product	SxtJ
+10	108	Region
+			region	SxtJ
+			note	Saxitoxin biosynthesis operon protein SxtJ
+			db_xref	CDD:437420
+1	134	CDS
+			product	SxtJ
+			transl_table	11
+			protein_id	gb|AYN62280.1|
+
+>Feature gb|AYN62300.1|
+1	353	Protein
+			product	SxtT
+7	333	Region
+			region	PobA
+			note	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]
+			db_xref	CDD:444459
+1	353	CDS
+			product	SxtT
+			transl_table	11
+			protein_id	gb|AYN62300.1|
+
+>Feature gb|AYN62299.1|
+1	249	Protein
+			product	SxtU
+5	247	Region
+			region	CAD_SDR_c
+			note	clavulanic acid dehydrogenase (CAD), classical (c) SDR
+			db_xref	CDD:187639
+14	19	Site
+38	40
+63	65
+91	94
+114	114
+141	143
+156	156
+160	160
+186	189
+191	193
+196	196
+			site_type	other
+			note	NADP binding site [chemical binding]
+			db_xref	CDD:187639
+68	68	Site
+99	103
+105	105
+108	109
+112	112
+116	117
+120	121
+124	124
+127	127
+132	132
+147	147
+149	152
+154	155
+157	158
+161	162
+165	166
+168	173
+175	177
+180	180
+214	216
+220	220
+224	224
+227	227
+232	247
+			site_type	other
+			note	homotetramer interface [polypeptide binding]
+			db_xref	CDD:187639
+68	68	Site
+99	103
+105	105
+108	109
+112	112
+116	117
+120	121
+124	124
+127	127
+132	132
+149	152
+154	155
+157	158
+161	162
+165	166
+168	170
+172	173
+176	177
+			site_type	other
+			note	homodimer interface [polypeptide binding]
+			db_xref	CDD:187639
+115	115	Site
+143	143
+156	156
+160	160
+			site_type	active
+			db_xref	CDD:187639
+1	249	CDS
+			product	SxtU
+			transl_table	11
+			protein_id	gb|AYN62299.1|
+
+>Feature gb|AYN62298.1|
+1	124	Protein
+			product	transposase
+3	>111	Region
+			region	transpos_IS5_3
+			note	IS5 family transposase
+			db_xref	CDD:468097
+1	124	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62298.1|
+
+>Feature gb|AYN62297.1|
+1	110	Protein
+			product	transposase
+<1	103	Region
+			region	DDE_Tnp_1_4
+			note	Transposase DDE domain group 1
+			db_xref	CDD:433414
+1	110	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62297.1|
+
+>Feature gb|AYN62296.1|
+1	191	Protein
+			product	transposase
+<25	174	Region
+			region	transpos_ISKra4
+			note	ISKra4 family transposase
+			db_xref	CDD:468091
+1	191	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62296.1|
+
+>Feature gb|AYN62295.1|
+1	263	Protein
+			product	transposase
+5	258	Region
+			region	transpos_IS5_3
+			note	IS5 family transposase
+			db_xref	CDD:468097
+1	263	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62295.1|
+
+>Feature gb|AYN62294.1|
+1	149	Protein
+			product	glycine/betaine ABC transporter
+<1	>135	Region
+			region	ProV
+			note	ABC-type proline/glycine betaine transport system, ATPase component [Amino acid transport and metabolism]
+			db_xref	CDD:443334
+1	149	CDS
+			product	glycine/betaine ABC transporter
+			transl_table	11
+			protein_id	gb|AYN62294.1|
+
+>Feature gb|AYN62293.1|
+1	272	Protein
+			product	transposase
+36	>272	Region
+			region	DUF4322
+			note	Domain of unknown function (DUF4322)
+			db_xref	CDD:480590
+1	272	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62293.1|
+
+>Feature gb|AYN62292.1|
+1	210	Protein
+			product	hypothetical protein
+1	210	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AYN62292.1|
+
+>Feature gb|AYN62291.1|
+1	255	Protein
+			product	SxtX
+50	237	Region
+			region	AdoMet_MTases
+			note	S-adenosylmethionine-dependent methyltransferases (SAM or AdoMet-MTase), class I; AdoMet-MTases are enzymes that use S-adenosyl-L-methionine (SAM or AdoMet) as a substrate for methyltransfer, creating the product S-adenosyl-L-homocysteine (AdoHcy). ...
+			db_xref	CDD:473071
+1	255	CDS
+			product	SxtX
+			transl_table	11
+			protein_id	gb|AYN62291.1|
+
+>Feature gb|AYN62290.1|
+1	205	Protein
+			product	transposase
+26	178	Region
+			region	DDE_3
+			note	DDE superfamily endonuclease
+			db_xref	CDD:433142
+1	205	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62290.1|
+
+>Feature gb|AYN62289.1|
+1	104	Protein
+			product	transposase
+1	>72	Region
+			region	transpos_ISNCY_1
+			note	ISNCY family transposase
+			db_xref	CDD:468102
+1	104	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62289.1|
+
+>Feature gb|AYN62288.1|
+1	485	Protein
+			product	SxtM3
+23	457	Region
+			region	MATE_NorM_like
+			note	Subfamily of the multidrug and toxic compound extrusion (MATE)-like proteins similar to Vibrio cholerae NorM
+			db_xref	CDD:240536
+267	267	Site
+271	271
+297	297
+300	300
+384	384
+388	388
+440	440
+444	444
+			site_type	other
+			note	cation binding site [ion binding]
+			db_xref	CDD:240536
+1	485	CDS
+			product	SxtM3
+			transl_table	11
+			protein_id	gb|AYN62288.1|
+
+>Feature gb|AYN62287.1|
+1	184	Protein
+			product	truncated SxtDIOX
+2	177	Region
+			region	VanA_C
+			note	Vanillate O-demethylase oxygenase C-terminal domain
+			db_xref	CDD:436978
+1	184	CDS
+			product	truncated SxtDIOX
+			transl_table	11
+			protein_id	gb|AYN62287.1|
+
+>Feature gb|AYN62286.1|
+1	165	Protein
+			product	transposase
+33	>161	Region
+			region	transpos_IS630
+			note	IS630 family transposase
+			db_xref	CDD:468076
+1	165	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62286.1|
+
+>Feature gb|AYN62285.1|
+1	187	Protein
+			product	transposase
+<1	166	Region
+			region	transpos_IS630
+			note	IS630 family transposase
+			db_xref	CDD:468076
+1	187	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62285.1|
+
+>Feature gb|AYN62284.1|
+1	158	Protein
+			product	truncated SxtDIOX
+7	>147	Region
+			region	PobA
+			note	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]
+			db_xref	CDD:444459
+1	158	CDS
+			product	truncated SxtDIOX
+			transl_table	11
+			protein_id	gb|AYN62284.1|
+
+>Feature gb|AYN62283.1|
+1	302	Protein
+			product	SxtSUL
+6	204	Region
+			region	Sulfotransfer_3
+			note	Sulfotransferase family
+			db_xref	CDD:463887
+1	302	CDS
+			product	SxtSUL
+			transl_table	11
+			protein_id	gb|AYN62283.1|
+
+>Feature gb|AYN62282.1|
+1	429	Protein
+			product	SxtL
+83	>171	Region
+			region	TesA
+			note	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK [Cell cycle control, cell division, chromosome partitioning, Lipid transport and metabolism]
+			db_xref	CDD:442045
+1	429	CDS
+			product	SxtL
+			transl_table	11
+			protein_id	gb|AYN62282.1|
+
+>Feature gb|AYN62281.1|
+1	54	Protein
+			product	SxtK
+6	54	Region
+			region	DUF5989
+			note	Family of unknown function (DUF5989)
+			db_xref	CDD:466090
+1	54	CDS
+			product	SxtK
+			transl_table	11
+			protein_id	gb|AYN62281.1|
+
+>Feature gb|AYN62279.1|
+1	612	Protein
+			product	SxtI
+1	598	Region
+			region	COG2192
+			note	Predicted carbamoyl transferase, NodU family [General function prediction only]
+			db_xref	CDD:441795
+1	612	CDS
+			product	SxtI
+			transl_table	11
+			protein_id	gb|AYN62279.1|
+
+>Feature gb|AYN62278.1|
+1	76	Protein
+			product	SxtM2
+1	76	CDS
+			product	SxtM2
+			transl_table	11
+			protein_id	gb|AYN62278.1|
+
+>Feature gb|AYN62277.1|
+1	334	Protein
+			product	SxtH
+7	328	Region
+			region	PobA
+			note	Chlorophyllide a oxygenase/letal leaf spot protein [Coenzyme transport and metabolism]
+			db_xref	CDD:444459
+1	334	CDS
+			product	SxtH
+			transl_table	11
+			protein_id	gb|AYN62277.1|
+
+>Feature gb|AYN62276.1|
+1	377	Protein
+			product	SxtG
+21	370	Region
+			region	amidinotransferase_AGAT-like
+			note	L-arginine:glycine amidinotransferase and similar proteins
+			db_xref	CDD:439148
+128	128	Site
+130	131
+211	211
+258	258
+260	261
+278	278
+309	310
+316	316
+357	357
+361	362
+			site_type	other
+			note	chemical substrate binding site [chemical binding]
+			db_xref	CDD:439148
+1	377	CDS
+			product	SxtG
+			transl_table	11
+			protein_id	gb|AYN62276.1|
+
+>Feature gb|AYN62275.1|
+1	90	Protein
+			product	hypothetical protein
+1	90	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AYN62275.1|
+
+>Feature gb|AYN62274.1|
+1	188	Protein
+			product	transposase
+<53	184	Region
+			region	transpos_IS5_3
+			note	IS5 family transposase
+			db_xref	CDD:468097
+1	188	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62274.1|
+
+>Feature gb|AYN62273.1|
+1	94	Protein
+			product	hypothetical protein
+1	94	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AYN62273.1|
+
+>Feature gb|AYN62272.1|
+1	480	Protein
+			product	SxtM1
+15	450	Region
+			region	MATE_NorM_like
+			note	Subfamily of the multidrug and toxic compound extrusion (MATE)-like proteins similar to Vibrio cholerae NorM
+			db_xref	CDD:240536
+259	259	Site
+263	263
+289	289
+292	292
+376	376
+380	380
+432	432
+436	436
+			site_type	other
+			note	cation binding site [ion binding]
+			db_xref	CDD:240536
+1	480	CDS
+			product	SxtM1
+			transl_table	11
+			protein_id	gb|AYN62272.1|
+
+>Feature gb|AYN62271.1|
+1	412	Protein
+			product	transposase
+1	385	Region
+			region	InsQ
+			note	Transposase [Mobilome: prophages, transposons]
+			db_xref	CDD:440439
+1	412	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62271.1|
+
+>Feature gb|AYN62270.1|
+1	165	Protein
+			product	SxtO
+2	>129	Region
+			region	P-loop containing Nucleoside Triphosphate Hydrolases
+			note	Members of the P-loop NTPase domain superfamily are characterized by a conserved nucleotide phosphate-binding motif, also referred to as the Walker A motif (GxxxxGK[S/T], where x is any residue), and the Walker B motif (hhhh[D/E], where h is a ...
+			db_xref	CDD:476819
+1	165	CDS
+			product	SxtO
+			transl_table	11
+			protein_id	gb|AYN62270.1|
+
+>Feature gb|AYN62269.1|
+1	68	Protein
+			product	transposase
+1	68	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62269.1|
+
+>Feature gb|AYN62268.1|
+1	120	Protein
+			product	SxtE
+15	120	Region
+			region	DUF5992
+			note	Family of unknown function (DUF5992)
+			db_xref	CDD:437286
+1	120	CDS
+			product	SxtE
+			transl_table	11
+			protein_id	gb|AYN62268.1|
+
+>Feature gb|AYN62267.1|
+1	1239	Protein
+			product	SxtA
+512	>616	Region
+			region	yhbS
+			note	Predicted N-acetyltransferase YhbS [General function prediction only]
+			db_xref	CDD:442387
+850	1228	Region
+			region	BioF
+			note	7-keto-8-aminopelargonate synthetase or related enzyme [Coenzyme transport and metabolism]
+			db_xref	CDD:439926
+1	1239	CDS
+			product	SxtA
+			transl_table	11
+			protein_id	gb|AYN62267.1|
+
+>Feature gb|AYN62266.1|
+1	322	Protein
+			product	SxtB
+3	308	Region
+			region	PRK09027
+			note	cytidine deaminase; Provisional
+			db_xref	CDD:181614
+1	322	CDS
+			product	SxtB
+			transl_table	11
+			protein_id	gb|AYN62266.1|
+
+>Feature gb|AYN62265.1|
+1	94	Protein
+			product	SxtC
+1	94	CDS
+			product	SxtC
+			transl_table	11
+			protein_id	gb|AYN62265.1|
+
+>Feature gb|AYN62264.1|
+1	234	Protein
+			product	transposase
+<18	226	Region
+			region	COG3464
+			note	Transposase [Mobilome: prophages, transposons]
+			db_xref	CDD:442687
+1	234	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62264.1|
+
+>Feature gb|AYN62263.1|
+1	88	Protein
+			product	hypothetical protein
+1	88	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AYN62263.1|
+
+>Feature gb|AYN62262.1|
+1	98	Protein
+			product	hypothetical protein
+1	98	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gb|AYN62262.1|
+
+>Feature gb|AYN62261.1|
+1	108	Protein
+			product	SxtW
+1	64	Region
+			region	PsaC
+			note	Photosystem I reaction center iron-sulfur center subunit VII, PsaC [Energy production and conversion]
+			db_xref	CDD:444413
+1	108	CDS
+			product	SxtW
+			transl_table	11
+			protein_id	gb|AYN62261.1|
+
+>Feature gb|AYN62260.1|
+1	559	Protein
+			product	SxtV
+24	396	Region
+			region	SdhA
+			note	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Energy production and conversion]
+			db_xref	CDD:440673
+1	559	CDS
+			product	SxtV
+			transl_table	11
+			protein_id	gb|AYN62260.1|
+
+>Feature gb|AYN62259.1|
+1	184	Protein
+			product	truncated SxtN
+<10	129	Region
+			region	Sulfotransfer_5
+			note	Sulfotransferase domain
+			db_xref	CDD:437630
+1	184	CDS
+			product	truncated SxtN
+			transl_table	11
+			protein_id	gb|AYN62259.1|
+
+>Feature gb|AYN62258.1|
+1	152	Protein
+			product	transposase
+<17	107	Region
+			region	InsQ
+			note	Transposase [Mobilome: prophages, transposons]
+			db_xref	CDD:440439
+1	152	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62258.1|
+
+>Feature gb|AYN62257.1|
+1	122	Protein
+			product	transposase
+2	>117	Region
+			region	InsQ
+			note	Transposase [Mobilome: prophages, transposons]
+			db_xref	CDD:440439
+1	122	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62257.1|
+
+>Feature gb|AYN62256.1|
+1	135	Protein
+			product	transposase
+4	128	Region
+			region	Y1_Tnp
+			note	Transposase IS200 like
+			db_xref	CDD:469954
+1	135	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62256.1|
+
+>Feature gb|AYN62255.1|
+1	81	Protein
+			product	truncated SxtN
+1	81	CDS
+			product	truncated SxtN
+			transl_table	11
+			protein_id	gb|AYN62255.1|
+
+>Feature gb|AYN62254.1|
+1	252	Protein
+			product	SxtD
+91	233	Region
+			region	ERG3
+			note	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily [Lipid transport and metabolism]
+			db_xref	CDD:442238
+1	252	CDS
+			product	SxtD
+			transl_table	11
+			protein_id	gb|AYN62254.1|
+
+>Feature gb|AYN62253.1|
+1	124	Protein
+			product	transposase
+3	>111	Region
+			region	transpos_IS5_3
+			note	IS5 family transposase
+			db_xref	CDD:468097
+1	124	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62253.1|
+
+>Feature gb|AYN62252.1|
+1	483	Protein
+			product	SxtP
+155	215	Region
+			region	FG-GAP_3
+			note	FG-GAP-like repeat
+			db_xref	CDD:433275
+204	264	Region
+			region	FG-GAP_3
+			note	FG-GAP-like repeat
+			db_xref	CDD:433275
+253	313	Region
+			region	FG-GAP_3
+			note	FG-GAP-like repeat
+			db_xref	CDD:433275
+302	362	Region
+			region	FG-GAP_3
+			note	FG-GAP-like repeat
+			db_xref	CDD:433275
+351	411	Region
+			region	FG-GAP_3
+			note	FG-GAP-like repeat
+			db_xref	CDD:433275
+400	460	Region
+			region	FG-GAP_3
+			note	FG-GAP-like repeat
+			db_xref	CDD:433275
+1	483	CDS
+			product	SxtP
+			transl_table	11
+			protein_id	gb|AYN62252.1|
+
+>Feature gb|AYN62251.1|
+1	258	Protein
+			product	SxtQ
+21	222	Region
+			region	YqcI_YcgG
+			note	YqcI/YcgG family
+			db_xref	CDD:470166
+1	258	CDS
+			product	SxtQ
+			transl_table	11
+			protein_id	gb|AYN62251.1|
+
+>Feature gb|AYN62250.1|
+1	293	Protein
+			product	SxtR
+<140	193	Region
+			region	PhnO
+			note	N-acetyltransferase, GNAT superfamily (includes histone acetyltransferase HPA2) [Transcription, General function prediction only]
+			db_xref	CDD:440222
+1	293	CDS
+			product	SxtR
+			transl_table	11
+			protein_id	gb|AYN62250.1|
+
+>Feature gb|AYN62249.1|
+1	121	Protein
+			product	transposase
+6	>118	Region
+			region	Csa3
+			note	CRISPR-associated protein Csa3, CARF domain [Defense mechanisms]
+			db_xref	CDD:442641
+1	121	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62249.1|
+
+>Feature gb|AYN62248.1|
+1	156	Protein
+			product	transposase
+<1	153	Region
+			region	COG3335
+			note	Transposase [Mobilome: prophages, transposons]
+			db_xref	CDD:442564
+1	156	CDS
+			product	transposase
+			transl_table	11
+			protein_id	gb|AYN62248.1|
+
+>Feature gb|AYN62247.1|
+1	189	Protein
+			product	Orf24
+1	189	CDS
+			product	Orf24
+			transl_table	11
+			protein_id	gb|AYN62247.1|
+
+>Feature gb|AYN62246.1|
+1	266	Protein
+			product	SxtS
+26	249	Region
+			region	PhyH
+			note	Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family [Secondary metabolites biosynthesis, transport and catabolism]
+			db_xref	CDD:444095
+1	266	CDS
+			product	SxtS
+			transl_table	11
+			protein_id	gb|AYN62246.1|
+

@@ -1,0 +1,175 @@
+DEFINE SXTA4 AS (Aminotran_1_2 or Aminotran_1_2_cyano or 8_amino_7_oxononanoate_cyano or Aspartate-Aminotrans-G3DSA_3-90-1150-10_Cyano or Aminotran_1_2_Dino_PF00155) # SxtA4
+DEFINE SXTA2 AS (Nat_cyano or GNAT_PF00583_cyano or GNAT_PF13302_cyano or GNAT_PF13508_cyano or ACYL_COA_GNAT_cyano or SxtA2-G3DSA_3-40-630-30-Cyano or SxtA2_GNAT-PS51186-Cyano) # SxtA2 
+DEFINE SXTA3 AS (PP-binding or PP_binding_cyano or ACP_like_cyano or PKS_PP_cyano or SxtA3_CP_domain_PS50075-Cyano or PKS_PP_betabranch-SM01294_Cyano) # SxtA3 
+DEFINE SXTA1 AS (PF04055 or Radical_SAM_cyano or SxtA1-PF23525-Methyltransf_36-Cyano or SxtA1_SAM-SSF53335-Cyano or AprA-N-PF23526_Cyano or AprA-winged-helix-PF23589_Cyano)
+DEFINE SXTG AS (Pentein_cyano or Glycine_amidinotransferase_cyano or glycine_amidinotransferase_CDD_cyano or SxtG-G3DSA_3-75-10-10_Cyano) # SxtG
+DEFINE SXTB1 AS ((dCMP_cyt_deam_2_cyano and dCMP_cyt_deam_1_cyano) or Cytidine_deaminase_cyano or cytidine_deaminase_CDD_cyano
+			or cytidine_deaminase_panther_cyano or cytidine-deaminase-NF006537_Cyano or Cytidine-deaminases-PS51747_Cyano) # SxtB
+DEFINE SXTB2 AS (dCMP_cyt_deam_2_cyano or dCMP_cyt_deam_1_cyano or Cytidine_deaminase_cyano or cytidine_deaminase_CDD_cyano
+			or cytidine_deaminase_panther_cyano or cytidine-deaminase-NF006537_Cyano or Cytidine-deaminases-PS51747_Cyano) # SxtB
+DEFINE SXTD AS (FA_hydroxylase_cyano or Sterol_Desaturase_cyano) # SxtD
+DEFINE SXTFM AS (MatE_cyano or MATE-PTHR43298_Cyano or MATE-NorM-CD13131_Cyano) # SxtF/M
+DEFINE SXTHT1 AS ((Rieske_cyano and VanA_C_cyano) or (Bet_v1_like_cyano and ISP_domain_cyano) or Iron_sulfur_cyano) # SxtHT
+DEFINE SXTHT2 AS (Rieske_cyano or VanA_C_cyano or Bet_v1_like_cyano or ISP_domain_cyano or Iron_sulfur_cyano) # SxtHT
+DEFINE SXTI AS (Carbam_trans_N or Carbam_trans_N_cyano or Carbam_trans_C_cyano or Carbamoyltransferase_cyano) # SxtI
+DEFINE SXTL AS (SGNH_hydrolase_cyano or SGNH_hydrolase_CDD_cyano) # SxtL
+DEFINE SXTN AS (Sulfotransferase_domain_containing_cyano or Sulfotransferase_5_cyano or Sulfotransferase_2_cyano or Sulfotransferase_4_cyano  # SxtN
+			or Sulfotransferase_1_cyano or Sulfotransferase_3_cyano or HEPARAN-SULFOTRANSFERASE-PTHR10605_Cyano
+			or sulfotransferase-Stf3-PTHR36451_Cyano or SULFOTRANSFERASE2-PTHR12788_Cyano or Sulfotransferase-PTHR48419_Cyano)
+DEFINE SXTO AS (Adenylylsulphate_kinase_cyano or APS-Kinase-PTHR42700_Cyano or Adenylyl-sulfate-kinase-PTHR11055_Cyano or APSK-CD02027_Cyano)  # SxtO
+DEFINE SXTP AS (FG-GAP-IPR013517_Cyano or FG-GAP_3 or SENSOR-KINASE-PTHR46580_Cyano) # SxtP
+DEFINE SXTPER AS (Diverse_Substrate_Transporter_cyano or EamA_like_transporter_cyano or Diverse-Metabolite-PTHR22911_Cyano or EmrE-SSF103481_Cyano) # SxtPER
+DEFINE SXTQ AS (YqcI_YcgG or YCGG-FAMILY-PTHR40045_Cyano or YqcI-YcgG-family-PF08892_Cyano) # SxtQ
+DEFINE SXTS AS (PhyH or PhyH_cyano or Clavaminate_synthase_cyano) # SxtS
+DEFINE SXTU AS (adh_short or adh_short_cyano or Short_chain_dehydrogenases_cyano) # SxtU
+DEFINE SXTV AS (FAD_binding_cyano or Succ_DH_flav_C_cyano or SUCCINATE_DEHYDROGENASE_cyano) # SxtV
+DEFINE SXTW AS (Fer4_7_cyano or Fer4_9_cyano or Iron_Sulfur_Ferredoxin_cyano or 4Fe-4S-ferredoxins-SSF54862_Cyano) # SxtW
+
+RULE saxitoxin
+    CATEGORY other
+    DESCRIPTION Saxitoxin cluster, complete
+    # See https://doi.org/10.1128/AEM.00353-08
+    # SxtA + SxtG + (SxtB/SxtD/SxtC) + (SxtS/SxtU/SxtW/SxtV/SxtHT) + (SxtI/SxtJ/SxtK/SxtL/SxtX/SxtN/SxtO/SxtFM/SxtPER)
+    EXAMPLE NCBI DQ787200.1 1-37606 saxitoxin # BGC0000188
+    RELATED PhoU,PsbH-PF00737-cyano,UbiA-PF01040-cyano,TatA-PF02416-cyano,TauD-PF02668_Cyano,TauD-TfdA-hydroxylases-PTHR10696_Cyano,TauD-TfdA-dioxygenase-PTHR30468_Cyano,
+			Transposase-DDE-PF13612_Cyano,DUF4277-transposase-PF14104_Cyano,BETA-LACTAMASE-PTHR35333_Cyano,DDE-PF13358_Cyano,BLL2464-PTHR33608-cyano_Cyano,
+			GlmU-CD02540_Cyano,GlmU-PTHR43584_Cyano,LbH_GlmU_C-CD03353_Cyano,DUF4350-PF14258_Cyano,Allophycocyanin-CD12126_Cyano,P450-PF00067_Cyano,
+			Glutamine-synthetase-beta-Grasp-PF03951_Cyano,Glutamine-synthetase-catalytic-PF00120_Cyano,Transposase-PF01610_Cyano,Transposase-DDE-PF01609_Cyano
+    CUTOFF 10
+    NEIGHBOURHOOD 20
+    CONDITIONS cds((SXTA1 or SXTA2) and SXTA3) and SXTA4
+            and cds(SXTG)
+            and cds(SXTB1 or SXTD or SxtC_alignment)
+            and cds(SXTS or SXTU or SXTW or SXTV or SXTHT1)
+            and cds(SXTI or SxtJ_cyano or SXTL or SXTN or SXTO or SXTFM or SXTPER)
+	EXTENDERS cds(SXTB2 or SXTHT2 or DUF5992_cyano or SXTP or SXTQ or Response_reg or Nat_cyano or RMNT_CmcI_cyano or Acyltransferase-PF01757_Cyano or Acyltransferase3-PTHR23028_Cyano) # SxtACT
+	
+##### Saxitoxin-related rules
+RULE SxtA-canonical
+    CATEGORY other
+    DESCRIPTION Saxitoxin A, complete, four domains in one CDS
+    # See https://doi.org/10.1128/AEM.00353-08
+	# SxtA1 + SxtA2 + SxtA3 + SxtA4
+    EXAMPLE NCBI DQ787200.1 1-37606 saxitoxin # BGC0000188
+    SUPERIORS saxitoxin
+    CUTOFF 2
+    NEIGHBOURHOOD 5
+    CONDITIONS cds(SXTA1 and SXTA2 and SXTA3 and SXTA4)
+
+RULE SxtA-canonical-short
+    CATEGORY other
+    DESCRIPTION Saxitoxin A, complete, four domains in one CDS
+    # See https://doi.org/10.1128/AEM.00353-08
+	# SxtA1 + SxtA2 + SxtA3 + SxtA4
+    EXAMPLE NCBI DQ787200.1 1-37606 saxitoxin # BGC0000188
+    SUPERIORS saxitoxin, SxtA-canonical
+    CUTOFF 2
+    NEIGHBOURHOOD 5
+    CONDITIONS cds((SXTA1 or SXTA2) and SXTA3 and SXTA4)
+
+RULE saxitoxin-like1
+    CATEGORY other
+    DESCRIPTION Saxitoxin cluster, minimum core set
+    # See https://doi.org/10.1128/AEM.00353-08
+    # (SxtA4) + (SxtG/SxtB/SxtC/SxtD) + (SxtI/SxtJ/SxtK/SxtL/SxtFM/SxtN/SxtO/SxtS/SxtHT/SxtW/SxtV/SxtU)
+    EXAMPLE NCBI DQ787201.1 1-30991 saxitoxin # BGC0000887
+    RELATED PhoU,PsbH-PF00737-cyano,UbiA-PF01040-cyano,TatA-PF02416-cyano,TauD-PF02668_Cyano,TauD-TfdA-hydroxylases-PTHR10696_Cyano,TauD-TfdA-dioxygenase-PTHR30468_Cyano,
+			Transposase-DDE-PF13612_Cyano,DUF4277-transposase-PF14104_Cyano,BETA-LACTAMASE-PTHR35333_Cyano,DDE-PF13358_Cyano,BLL2464-PTHR33608-cyano_Cyano,
+			GlmU-CD02540_Cyano,GlmU-PTHR43584_Cyano,LbH_GlmU_C-CD03353_Cyano,DUF4350-PF14258_Cyano,Allophycocyanin-CD12126_Cyano,P450-PF00067_Cyano,
+			Glutamine-synthetase-beta-Grasp-PF03951_Cyano,Glutamine-synthetase-catalytic-PF00120_Cyano,Transposase-PF01610_Cyano,Transposase-DDE-PF01609_Cyano
+    SUPERIORS saxitoxin, SxtA-canonical, SxtA-canonical-short
+    CUTOFF 10
+    NEIGHBOURHOOD 20
+    CONDITIONS cds(SXTA4)
+			and cds(SXTG or SXTB2 or SXTD or SxtC_alignment)
+            and cds(SXTS or SXTU or SXTW or SXTV or SXTHT2 or SXTI or SxtJ_cyano or DUF5989_cyano or SXTL or SXTN or SXTO or SXTFM)
+	EXTENDERS cds(DUF5992_cyano or SXTP or SXTPER or SXTQ or Response_reg or Nat_cyano or RMNT_CmcI_cyano or Acyltransferase-PF01757_Cyano or Acyltransferase3-PTHR23028_Cyano) # SxtACT
+			
+RULE saxitoxin-like2
+    CATEGORY other
+    DESCRIPTION Saxitoxin cluster, incomplete
+    # See https://doi.org/10.1128/AEM.00353-08
+    # (SxtG/SxtB/SxtD/SxtC) + (SxtS/SxtI/SxtU/SxtW/SxtV/SxtHT)
+    EXAMPLE NCBI DQ787201.1 1-30991 saxitoxin # BGC0000887
+	RELATED PhoU,PsbH-PF00737-cyano,UbiA-PF01040-cyano,TatA-PF02416-cyano,TauD-PF02668_Cyano,TauD-TfdA-hydroxylases-PTHR10696_Cyano,TauD-TfdA-dioxygenase-PTHR30468_Cyano,
+			Transposase-DDE-PF13612_Cyano,DUF4277-transposase-PF14104_Cyano,BETA-LACTAMASE-PTHR35333_Cyano,DDE-PF13358_Cyano,BLL2464-PTHR33608-cyano_Cyano,
+			GlmU-CD02540_Cyano,GlmU-PTHR43584_Cyano,LbH_GlmU_C-CD03353_Cyano,DUF4350-PF14258_Cyano,Allophycocyanin-CD12126_Cyano,P450-PF00067_Cyano,
+			Glutamine-synthetase-beta-Grasp-PF03951_Cyano,Glutamine-synthetase-catalytic-PF00120_Cyano,Transposase-PF01610_Cyano,Transposase-DDE-PF01609_Cyano
+    SUPERIORS saxitoxin, SxtA-canonical, SxtA-canonical-short, saxitoxin-like1
+    CUTOFF 10
+    NEIGHBOURHOOD 20
+	CONDITIONS cds(SXTB2 or SXTG or SXTD or SxtC_alignment)
+            and (SXTS or SXTI or SXTW or SXTV or SXTU or SXTHT2)
+	EXTENDERS cds(SXTA1 or SXTA2 or SXTA3 or SXTA4 or SXTN or SxtJ_cyano or DUF5989_cyano or DUF5992_cyano or SXTFM or SXTL or SXTO or SXTPER
+			or SXTP or SXTQ or RMNT_CmcI_cyano or Nat_cyano or Response_reg or Acyltransferase-PF01757_Cyano or Acyltransferase3-PTHR23028_Cyano) # SxtACT
+
+RULE SxtIJK-tailoring
+    CATEGORY other
+    DESCRIPTION Saxitoxin cluster, partial, transferase and tailoring genes
+    # See https://doi.org/10.1128/AEM.00353-08
+    # SxtI + SxtJ + SxtK + (SxtX/SxtL/SxtN)
+    EXAMPLE NCBI DQ787200.1 1-37606 saxitoxin # BGC0000188
+	RELATED PhoU,PsbH-PF00737-cyano,UbiA-PF01040-cyano,TatA-PF02416-cyano,TauD-PF02668_Cyano,TauD-TfdA-hydroxylases-PTHR10696_Cyano,TauD-TfdA-dioxygenase-PTHR30468_Cyano,
+			Transposase-DDE-PF13612_Cyano,DUF4277-transposase-PF14104_Cyano,BETA-LACTAMASE-PTHR35333_Cyano,DDE-PF13358_Cyano,BLL2464-PTHR33608-cyano_Cyano,
+			GlmU-CD02540_Cyano,GlmU-PTHR43584_Cyano,LbH_GlmU_C-CD03353_Cyano,DUF4350-PF14258_Cyano,Allophycocyanin-CD12126_Cyano,P450-PF00067_Cyano,
+			Glutamine-synthetase-beta-Grasp-PF03951_Cyano,Glutamine-synthetase-catalytic-PF00120_Cyano,Transposase-PF01610_Cyano,Transposase-DDE-PF01609_Cyano
+	SUPERIORS saxitoxin, SxtA-canonical, SxtA-canonical-short, saxitoxin-like1, saxitoxin-like2
+    CUTOFF 10
+    NEIGHBOURHOOD 20
+	CONDITIONS cds(SXTI) and SxtJ_cyano and DUF5989_cyano and cds(SXTL or SXTN or RMNT_CmcI_cyano)
+	EXTENDERS cds(SXTP or SXTQ or DUF5992_cyano or SXTFM or Nat_cyano or Acyltransferase-PF01757_Cyano or Acyltransferase3-PTHR23028_Cyano or Response_reg
+            or SXTB2 or SXTG or SXTD or SxtC_alignment or SXTS or SXTW or SXTV or SXTHT2 or SXTPER or SXTA4)
+
+RULE SxtA-alternative-1
+    CATEGORY other
+    DESCRIPTION Saxitoxin A alternative
+    # See https://doi.org/10.1128/AEM.00353-08
+    EXAMPLE NCBI DQ787200.1 1-37606 saxitoxin # BGC0000188
+    RELATED PhoU,PsbH-PF00737-cyano,UbiA-PF01040-cyano,TatA-PF02416-cyano,TauD-PF02668_Cyano,TauD-TfdA-hydroxylases-PTHR10696_Cyano,TauD-TfdA-dioxygenase-PTHR30468_Cyano,
+			Transposase-DDE-PF13612_Cyano,DUF4277-transposase-PF14104_Cyano,BETA-LACTAMASE-PTHR35333_Cyano,DDE-PF13358_Cyano,BLL2464-PTHR33608-cyano_Cyano,
+			GlmU-CD02540_Cyano,GlmU-PTHR43584_Cyano,LbH_GlmU_C-CD03353_Cyano,DUF4350-PF14258_Cyano,Allophycocyanin-CD12126_Cyano,P450-PF00067_Cyano,
+			Glutamine-synthetase-beta-Grasp-PF03951_Cyano,Glutamine-synthetase-catalytic-PF00120_Cyano,Transposase-PF01610_Cyano,Transposase-DDE-PF01609_Cyano			
+	CUTOFF 10
+    NEIGHBOURHOOD 20
+    CONDITIONS cds(SXTA1 or Radical-SAM-SSF102114_Cyano or SAM-core-PS51918_Cyano or MiaB-SM00729_Cyano)
+            and cds(SXTA4 or KBL_like-CD06454_Cyano)
+            and cds(SXTA3)
+            and cds(AcetylCoA_synthetase-SSF56801-cyano or FAAL-CD05931-cyano or AMP-binding-IPR025110-cyano or AMP-binding or ATP-AMP-binding-PTHR22754-cyano or AMP-dom_DIP2-like-PF23024-cyano
+            or Asp_Arg_Hydrox-PF05118_Cyano or Clavaminate_synthase_cyano or Asp-beta-hydroxylase-PTHR46332_Cyano)
+    EXTENDERS cds(PF02310_B12_binding_cyano or B12-binding-PS51332_Cyano or radical_SAM_B12_BD-CD02068_Cyano or Tetrapyrrole-PTHR43409-cyano or extracellular-solute-binding-PF13416_Cyano
+            or DUF4070-IPR025274-cyano or SXTA2 or polyamine-transport-PTHR30222_Cyano or INNER-MEMBRANE-PERMEASE-PTHR42929_Cyano or Polyamine-Transport-PTHR43848_Cyano
+            or Transposase-IS630-like-IPR047655_Cyano or SXTG or SXTB2 or SXTU or SxtC_alignment or SXTD or SXTHT2 or DUF5992_cyano or SXTFM or SXTV or SXTP or SXTI or SxtJ_cyano
+            or DUF5989_cyano or SXTL or SXTN or SXTO or SXTQ or SXTS or Acyltransferase-PF01757_Cyano or Acyltransferase3-PTHR23028_Cyano or RMNT_CmcI_cyano or Glycos_transf_1
+            or Acetyltransf_1 or Met_synt_B12 or S-methyl_trans or Response_reg or Nat_cyano)
+			
+RULE SxtA-alternative-2
+    CATEGORY other
+    DESCRIPTION Saxitoxin A alternative
+    # See https://doi.org/10.1128/AEM.00353-08
+    EXAMPLE NCBI DQ787200.1 1-37606 saxitoxin # BGC0000188
+	RELATED PhoU,PsbH-PF00737-cyano,UbiA-PF01040-cyano,TatA-PF02416-cyano,TauD-PF02668_Cyano,TauD-TfdA-hydroxylases-PTHR10696_Cyano,TauD-TfdA-dioxygenase-PTHR30468_Cyano,
+			Transposase-DDE-PF13612_Cyano,DUF4277-transposase-PF14104_Cyano,BETA-LACTAMASE-PTHR35333_Cyano,DDE-PF13358_Cyano,BLL2464-PTHR33608-cyano_Cyano,
+			GlmU-CD02540_Cyano,GlmU-PTHR43584_Cyano,LbH_GlmU_C-CD03353_Cyano,DUF4350-PF14258_Cyano,Allophycocyanin-CD12126_Cyano,P450-PF00067_Cyano,
+			Glutamine-synthetase-beta-Grasp-PF03951_Cyano,Glutamine-synthetase-catalytic-PF00120_Cyano,Transposase-PF01610_Cyano,Transposase-DDE-PF01609_Cyano			
+	CUTOFF 4
+    NEIGHBOURHOOD 10
+    CONDITIONS cds((Thiolase-like-SSF53901_Cyano or KS3-PS52004_Cyano or Beta-ketoacyl-synthase-N-PF00109_Cyano or ketoacyl-synt or Beta-ketoacyl-C-PF02801_Cyano or Beta-ketoacyl-synthase-SM00825_Cyano or PKS-CD00833_Cyano)
+            and (Malonyl-CoA-ACP-IPR016036_Cyano or Acyl-transferase-PF00698_Cyano or CurL-like-PF22621_Cyano or Acyl-transferase-PKS-SM00827_Cyano)
+            and (PKS-DH-PS52019_Cyano or PKS-DH-N-PF14765_Cyano or PKS-DH-PF21089_Cyano or PKS-NRPS-PTHR43775_Cyano or PKS_DH-SM00826_Cyano)
+			and (ADH-GroES-PF08240_Cyano or Zinc-binding-dehydrogenase-PF13602_Cyano or Enoylreductase-SM00829_Cyano or KR-PF08659_Cyano or PKS_KR-SM00822_Cyano)
+			and SXTA3 and (SXTA4 or KBL_like-CD06454_Cyano or Aminotransferase_classIII_cyano or bioF-TIGR00858_Cyano))
+	EXTENDERS cds(SXTG or SXTB2 or SxtC_alignment or SXTD or SXTHT2 or DUF5992_cyano or SXTFM or SXTV or SXTP or SXTI or SxtJ_cyano or DUF5989_cyano or SXTL or SXTN or SXTO or SXTQ or SXTS
+			or Acyltransferase-PF01757_Cyano or Acyltransferase3-PTHR23028_Cyano or RMNT_CmcI_cyano or Glycos_transf_1 or Acetyltransf_1 or Met_synt_B12 or S-methyl_trans or Response_reg or Nat_cyano)
+
+RULE SxtA-like
+    CATEGORY other
+    DESCRIPTION Saxitoxin A, flexible CDS arrangement
+    # See https://doi.org/10.1128/AEM.00353-08
+	# SxtA4 + SxtA123
+    EXAMPLE NCBI DQ787200.1 1-37606 saxitoxin # BGC0000188
+    SUPERIORS saxitoxin, saxitoxin-like1, SxtA-canonical, SxtA-canonical-short, SxtA-alternative-1, SxtA-alternative-2
+    CUTOFF 2
+    NEIGHBOURHOOD 5
+	CONDITIONS cds((SXTA4 or KBL_like-CD06454_Cyano) and not PF00266-Aminotransferase_classV_Cyano) and cds(SXTA1 or SXTA2 or SXTA3)
+    EXTENDERS cds(SXTB2 or SXTG or SXTD or SxtC_alignment or SXTS or SXTI or SXTW or SXTV or SXTU or SXTHT2 or SXTN or SxtJ_cyano or DUF5989_cyano or DUF5992_cyano
+            or SXTFM or SXTL or SXTO or SXTPER or SXTP or SXTQ or RMNT_CmcI_cyano or Nat_cyano or Response_reg or Acyltransferase-PF01757_Cyano or Acyltransferase3-PTHR23028_Cyano)
